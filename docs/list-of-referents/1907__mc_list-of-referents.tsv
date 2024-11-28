@@ -1,0 +1,2239 @@
+corpus	text	refind	label	description	class	relations	notes
+cypgreek	jitros	0001	king	father of 0002	hum		
+cypgreek	jitros	0002	son	son of 0001	hum		
+cypgreek	jitros	0003	palace	of 0001	loc		
+cypgreek	jitros	0004	servant		hum		
+cypgreek	jitros	0005	mattress		inm		
+cypgreek	jitros	0006	breakfast		inm		
+cypgreek	jitros	0007	milk		mss		
+cypgreek	jitros	0008	noon		tme		
+cypgreek	jitros	0009	lunch		inm		
+cypgreek	jitros	0010	night		tme		
+cypgreek	jitros	0011	dinner		inm		
+cypgreek	jitros	0012	queen	mother of 0002	hum		
+cypgreek	jitros	0013	heart	of 0001	bdp	M 0001	
+cypgreek	jitros	0014	staircase		loc		
+cypgreek	jitros	0015	it		abs		
+cypgreek	jitros	0016	workers		hum		
+cypgreek	jitros	0017	builders		hum		
+cypgreek	jitros	0018	tomorrow		tme		
+cypgreek	jitros	0019	they		hum	> 0016, 0017	
+cypgreek	jitros	0020	kingdom		loc		
+cypgreek	jitros	0021	palace	for 0002	loc		
+cypgreek	jitros	0022	fifteen days		tme		
+cypgreek	jitros	0023	balconies		loc		
+cypgreek	jitros	0024	terraces		loc		
+cypgreek	jitros	0025	apple		inm		
+cypgreek	jitros	0026	terrace	one of 0024	loc	M 0024	
+cypgreek	jitros	0027	breakfast		inm		
+cypgreek	jitros	0028	old woman		hum		
+cypgreek	jitros	0029	pot		inm		
+cypgreek	jitros	0030	fountain		loc		
+cypgreek	jitros	0031	daughter	of Jitros of Jitromilos	hum		
+cypgreek	jitros	0032	breakfast	second breakfast	inm		
+cypgreek	jitros	0033	lunch	second lunch	inm		
+cypgreek	jitros	0034	dinner	second dinner	inm		
+cypgreek	jitros	0035	news		abs		
+cypgreek	jitros	0036	messages		abs		
+cypgreek	jitros	0037	horse	of 0002	anm		
+cypgreek	jitros	0038	eyes	of 0039	bdp	M 0039	
+cypgreek	jitros	0039	dragon		anm		
+cypgreek	jitros	0040	three	of 0038	bdp	< 0038	
+cypgreek	jitros	0041	one	first of 0040	bdp	< 0038, 0040	
+cypgreek	jitros	0042	water	request by 0043	mss		depicted reality
+cypgreek	jitros	0043	she	the first girl	hum		
+cypgreek	jitros	0044	other one	second of 0040	bdp	< 0038, 0040	depicted reality
+cypgreek	jitros	0045	two	of 0040	bdp	< 0038, 0040	depicted reality
+cypgreek	jitros	0046	other one	the second girl	hum		
+cypgreek	jitros	0047	water	request by 0046	mss		depicted reality
+cypgreek	jitros	0048	reservoir		loc		
+cypgreek	jitros	0049	her	third of 0040	inm	< 0038, 0040	
+cypgreek	jitros	0050	water	request by 0051	mss		depicted reality
+cypgreek	jitros	0051	she	the third girl	hum		
+cypgreek	jitros	0052	back	of the horse	bdp	M 0037	
+cypgreek	jitros	0053	wedding		inm		
+cypgreek	jitros	0054	dowry		inm		
+cypgreek	jitros	0055	things		inm		
+cypgreek	jitros	0056	queen	mother of 0002	hum		depicted reality
+cypgreek	jitros	0057	us	parents of 0002	hum	> 0001, 0012	depicted reality
+cypgreek	jitros	0058	doctor		hum		depicted reality
+cypgreek	jitros	0059	we	queen and son	hum	> 0002, 0012	depicted reality
+cypgreek	jitros	0060	food		mss		depicted reality
+cypgreek	jitros	0061	other son	son of 0062	hum		depicted reality
+cypgreek	jitros	0062	other king	father 0061	hum		depicted reality
+cypgreek	jitros	0063	palace	of 0061	loc		depicted reality
+cypgreek	jitros	0064	balcony	of 0061	loc		depicted reality
+cypgreek	jitros	0065	terrace	of 0061	loc		depicted reality
+cypgreek	jitros	0066	golden apple	of 0061	inm		depicted reality
+cypgreek	jitros	0067	sword	of 0061	inm		depicted reality
+cypgreek	jitros	0068	bible	of 0061	inm		depicted reality
+cypgreek	jitros	0069	home	of 0028	loc		depicted reality
+cypgreek	jitros	0070	daughter	of Jitros of Jitromilos	hum		depicted reality
+cypgreek	jitros	0071	headache		inm		depicted reality
+cypgreek	jitros	0072	fiancée		hum		depicted reality
+cypgreek	jitros	0073	head	of 0002	bdp	M 0002	depicted reality
+cypgreek	jitros	0074	village		loc		depicted reality
+cypgreek	jitros	0075	reservoir		loc		depicted reality
+cypgreek	jitros	0076	bitter orange tree		inm		depicted reality
+cypgreek	jitros	0077	dragon		anm		depicted reality
+cypgreek	jitros	0078	horse	of 0002	anm		depicted reality
+cypgreek	jitros	0079	eyes	of 0077	bdp	M 0077	depicted reality
+cypgreek	jitros	0080	three	of 0079	bdp	< 0079	depicted reality
+cypgreek	jitros	0081	one	first of 0080	bdp	< 0079, 0080	depicted reality
+cypgreek	jitros	0082	girl	the first girl	hum		depicted reality
+cypgreek	jitros	0083	water	request by 0082	mss		depicted reality
+cypgreek	jitros	0084	other one	second of 0080	bdp	< 0079, 0080	depicted reality
+cypgreek	jitros	0085	other one	third of 0080	bdp	< 0079, 0080	depicted reality
+cypgreek	jitros	0086	water	request by the third girl	mss		depicted reality
+cypgreek	jitros	0087	dowry		inm		depicted reality
+cypgreek	jitros	0088	furniture		inm		depicted reality
+cypgreek	jitros	0089	breakfast		inm		
+cypgreek	minaes	0001	rich sister		hum		
+cypgreek	minaes	0002	poor sister		hum		
+cypgreek	minaes	0003	three children	three children of the poor sister	hum		children of 002
+cypgreek	minaes	0004	girl	daughter of the poor sister	hum	< 0003	
+cypgreek	minaes	0005	two boys	two sons of the poor sister	hum	< 0003	
+cypgreek	minaes	0006	girl	daughter of the rich sister	hum		child of 001
+cypgreek	minaes	0007	bread	made by the poor sister for the rich sister	mss		
+cypgreek	minaes	0008	hands	of the poor sister	bdp	M 0002	
+cypgreek	minaes	0009	dough	of the kneaded bread	mss		
+cypgreek	minaes	0010	handkerchief		inm		
+cypgreek	minaes	0011	korn'axtos		inm		
+cypgreek	minaes	0012	apron		inm		
+cypgreek	minaes	0013	flour		mss		
+cypgreek	minaes	0014	ghruta		mss		
+cypgreek	minaes	0015	it	the food the poor sister makes from the rest of the kneaded bread	mss		
+cypgreek	minaes	0016	they	the rich sister and her best woman	hum	> 0001, 0023	
+cypgreek	minaes	0017	milk		mss		depicted reality
+cypgreek	minaes	0018	tea		mss		depicted reality
+cypgreek	minaes	0019	kebab		inm		depicted reality
+cypgreek	minaes	0020	dust		mss		depicted reality
+cypgreek	minaes	0021	feet	of the poor sister	bdp	M 0002	depicted reality
+cypgreek	minaes	0022	headscarf		inm		depicted reality
+cypgreek	minaes	0023	best woman	of the rich sister	hum		
+cypgreek	minaes	0024	home	of the poor sister	loc		
+cypgreek	minaes	0025	fate		abs		depicted reality
+cypgreek	minaes	0026	home		loc		depicted reality
+cypgreek	minaes	0027	job		inm		depicted reality
+cypgreek	minaes	0028	house		loc		depicted reality
+cypgreek	minaes	0029	neighbour woman	of the poor sister	hum		
+cypgreek	minaes	0030	bread	for the poor sister and her children	inm		
+cypgreek	minaes	0031	tent	found by poor sister	loc		
+cypgreek	minaes	0032	they	people living in the tent	hum		
+cypgreek	minaes	0033	pie	for poor sister from 032	inm		
+cypgreek	minaes	0034	olives	for poor sister from 032	inm		
+cypgreek	minaes	0035	it	pie and olives	inm	> 0033, 0034	
+cypgreek	minaes	0036	bed		inm		depicted reality
+cypgreek	minaes	0037	neighbour woman		hum		depicted reality
+cypgreek	minaes	0038	we	mother and her children	hum	> 0002, 0003	depicted reality
+cypgreek	minaes	0039	bread		inm		depicted reality
+cypgreek	minaes	0040	pie	for the poor sister's children	inm		depicted reality
+cypgreek	minaes	0041	olives	for the poor sister's children	inm		depicted reality
+cypgreek	minaes	0042	January		tme		depicted reality
+cypgreek	minaes	0043	grass		mss		depicted reality
+cypgreek	minaes	0044	he	one of the 12 men in the tent	hum	< 0032	
+cypgreek	minaes	0045	February		tme		depicted reality
+cypgreek	minaes	0046	March		tme		depicted reality
+cypgreek	minaes	0047	bread		mss		depicted reality
+cypgreek	minaes	0048	wind		mss		depicted reality
+cypgreek	minaes	0049	he	one of the 12 men in the tent	hum	< 0032	
+cypgreek	minaes	0050	breads	some of the bread that the poor sister makes is sold by the rich sister	mss	M 0007	
+cypgreek	minaes	0051	bread	part of the bread that the poor sister makes and that is not given to her	mss	M 0007	
+cypgreek	minaes	0052	three pies	three pies for the poor sister and her children	inm		
+cypgreek	minaes	0053	nine olives	nine olives for the poor sister and her children	inm		
+cypgreek	minaes	0054	box	box full of gold coins for the poor sister and her children	inm		
+cypgreek	minaes	0055	little piece	of the pies	inm	M 0052	
+cypgreek	minaes	0056	olive	one olive for the poor sister	inm	M 0053	
+cypgreek	minaes	0057	they	the poor sister and her children	hum	> 0002, 0003	
+cypgreek	minaes	0058	three	repentances	abs		
+cypgreek	minaes	0059	ten	repentances	abs		
+cypgreek	minaes	0060	bread	from the neighbor woman	inm		
+cypgreek	minaes	0061	wheat	three kilos wheat from the neighbor woman	inm		
+cypgreek	minaes	0062	bags	in poor sister's home	inm		
+cypgreek	minaes	0063	night		tme		
+cypgreek	minaes	0064	box	for the rich sister	inm		
+cypgreek	minaes	0065	morning	the morning when the rich sister opens the box	tme		
+cypgreek	minaes	0066	house	other house where the rich sister opens the box	loc		
+cypgreek	minaes	0067	snakes	coming out of the box	anm		
+cypgreek	minaes	0068	monsters	coming out of the box	anm		
+cypgreek	minaes	0069	coin snakes	coming out of the box	anm		
+cypgreek	minaes	0070	they	snakes, monsters and coin snakes out of the box	anm	> 0067, 0068, 0069	
+cypgreek	minaes	0071	seeds		mss		depicted reality
+cypgreek	minaes	0072	April		tme		depicted reality
+cypgreek	minaes	0073	May		tme		depicted reality
+cypgreek	minaes	0074	apricots		inm		depicted reality
+cypgreek	minaes	0075	cucumbers		inm		depicted reality
+cypgreek	minaes	0076	courgettes		inm		depicted reality
+cypgreek	minaes	0077	foods	fresh foods	inm		depicted reality
+cypgreek	minaes	0078	June		tme		depicted reality
+cypgreek	minaes	0079	figs		inm		depicted reality
+cypgreek	minaes	0080	grapes		inm		depicted reality
+cypgreek	minaes	0081	July		tme		depicted reality
+cypgreek	minaes	0082	prickly pears		inm		depicted reality
+cypgreek	minaes	0083	watermelons		inm		depicted reality
+cypgreek	minaes	0084	August		tme		depicted reality
+cypgreek	minaes	0085	October		tme		depicted reality
+cypgreek	minaes	0086	November		tme		depicted reality
+cypgreek	minaes	0087	December		tme		depicted reality
+cypgreek	minaes	0088	months		tme	> 0045, 0046, 0072, 0042, 0081, 0078, 0073, 0087, 0086, 0085, 0084	depicted reality
+cypgreek	minaes	0089	repentances		inm		depicted reality
+cypgreek	minaes	0090	pillow		inm		depicted reality
+cypgreek	minaes	0091	breads	for the children	inm		depicted reality
+cypgreek	minaes	0092	it	some of the pies and olives	inm	M 0052, 0053	depicted reality
+cypgreek	minaes	0093	fate		abs		depicted reality
+cypgreek	minaes	0094	ten	repentances	inm		depicted reality
+cypgreek	minaes	0095	money		inm		depicted reality
+cypgreek	minaes	0096	bread		inm		depicted reality
+cypgreek	minaes	0097	wheat		mss		depicted reality
+cypgreek	minaes	0098	kilos	of wheat	inm		depicted reality
+cypgreek	minaes	0090	money	for the wheat and the bread	inm		depicted reality
+cypgreek	minaes	0091	money	rich sister's money	inm		depicted reality
+cypgreek	minaes	0092	scarf		inm		depicted reality
+cypgreek	minaes	0093	head	of the poor sister	bdp	M 0002	depicted reality
+cypgreek	minaes	0094	legs	of the poor sister	bdp	M 0002	depicted reality
+cypgreek	minaes	0095	son	one of the two sons	hum	< 0005	depicted reality
+cypgreek	minaes	0096	desks	six desks	inm		depicted reality
+cypgreek	minaes	0097	house	of the rich sister	loc		depicted reality
+cypgreek	minaes	0098	morning	the mornings in March	tme		depicted reality
+cypgreek	minaes	0099	donkey		anm		depicted reality
+cypgreek	minaes	0100	noon	in March	tme		depicted reality
+cypgreek	minaes	0101	heat	in March	inm		depicted reality
+cypgreek	minaes	0102	heat	in April	inm		depicted reality
+cypgreek	minaes	0103	sweat		mss		depicted reality
+cypgreek	minaes	0104	month		inm		depicted reality
+cypgreek	minaes	0105	pillow	of the rich sister	inm		depicted reality
+cypgreek	minaes	0106	morning		tme		depicted reality
+cypgreek	minaes	0107	husband	rich sister's husband	hum		depicted reality
+cypgreek	minaes	0108	house	other house where the rich sister opens the box	loc		depicted reality
+cypgreek	minaes	0109	fate	rich sister's fate	abs		depicted reality
+cypgreek	psarin	0001	kojakarin	old woman, mother of 0002	hum		
+cypgreek	psarin	0002	yon	son of 0001	hum		
+cypgreek	psarin	0003	they	old woman and her son	hum	> 0002, 0001	
+cypgreek	psarin	0004	ta	the nets for fishing	inm		
+cypgreek	psarin	0005	arseran	skylight; place where 0004 are stored	loc		
+cypgreek	psarin	0006	kofinan	big basket that the son fills with fish	inm		
+cypgreek	psarin	0007	village	village in which the old woman and her son live	loc		
+cypgreek	psarin	0008	kavenen	coffee shop where he sells the fishes	loc		
+cypgreek	psarin	0009	fish	the fishes he caught	mss		
+cypgreek	psarin	0010	rial'a	coins that he gets for selling the fishes	inm		
+cypgreek	psarin	0011	akran	edge of the beach	loc		
+cypgreek	psarin	0012	psarin	a big fish	anm		
+cypgreek	psarin	0013	kark'an	heart of the big fish	bdp	M 0012	
+cypgreek	psarin	0014	xanappin	vessel found in the big fish	inm		
+cypgreek	psarin	0015	yemata	blood on the vessel	mss		
+cypgreek	psarin	0016	neron	water used to wash the vessel	mss		
+cypgreek	psarin	0017	lires	pounds from the vessel	mss		
+cypgreek	psarin	0018	krasin	wine	mss		
+cypgreek	psarin	0019	kandilan	glass	inm		
+cypgreek	psarin	0020	tavlin	table	inm		
+cypgreek	psarin	0021	lires	pounds from the wine	mss		
+cypgreek	psarin	0022	ghon'an	corner	loc		
+cypgreek	psarin	0023	lires	pounds filling a corner of the house	mss		
+cypgreek	psarin	0024	xorkon	village the son goes to	loc		
+cypgreek	psarin	0025	xorkon	other village the son goes to	loc		
+cypgreek	psarin	0026	kambon	a barren field	loc		
+cypgreek	psarin	0027	palatin	royal palace	loc		
+cypgreek	psarin	0028	kori	daughter of 0029	hum		
+cypgreek	psarin	0029	vasilia	king, father of 0028	hum		
+cypgreek	psarin	0030	yallokluvin	glass cage	inm		
+cypgreek	psarin	0031	dhules	two servants	hum		
+cypgreek	psarin	0032	fundanan	fountain in the royal palace	loc		
+cypgreek	psarin	0033	kuzes	clay pots	inm		
+cypgreek	psarin	0034	mairas	the cook	hum		
+cypgreek	psarin	0035	them	the old woman's son and the king's daughter	hum	> 0002, 0028	
+cypgreek	psarin	0036	things	things to cook and eat for 0035	inm		
+cypgreek	psarin	0037	queen	the queen, mother of 0028	hum		
+cypgreek	psarin	0038	up here	location of the glass cage	loc		
+cypgreek	psarin	0039	they	queen and cook	hum	> 0037, 0034	
+cypgreek	psarin	0040	kapriolen	cabriolet	inm		
+cypgreek	psarin	0041	they	king and queen	hum	> 0029, 0037	
+cypgreek	psarin	0042	dhodhekadhas	dozen	hum		
+cypgreek	psarin	0043	my man		hum		depicted reality
+cypgreek	psarin	0044	my	woman from the village	hum		depicted reality
+cypgreek	psarin	0045	month	time to recover for 043	tme		depicted reality
+cypgreek	psarin	0046	pelekanus	carpenters	hum		
+cypgreek	psarin	0047	spitin	house for the princess	inm		
+cypgreek	psarin	0048	psumnia	bread for the princess	mss		
+cypgreek	psarin	0049	nera	water for the princess	mss		
+cypgreek	psarin	0050	faya	food for the princess	mss		
+cypgreek	psarin	0051	ruxa	clothes for the princess	mss		
+cypgreek	psarin	0052	jimman	wave	mss		
+cypgreek	psarin	0053	yon	son of 0028	hum		
+cypgreek	psarin	0054	konajin	villa the young man builds	loc		
+cypgreek	psarin	0055	lires	pounds from the vessel used to build the villa	mss		
+cypgreek	psarin	0056	strata	road to the villa	loc		
+cypgreek	psarin	0057	veziris	vizier	hum		
+cypgreek	psarin	0058	vezirena	wife of vizier	hum		
+cypgreek	psarin	0059	they	the king, the queen, the vizier and his wife	hum	> 0057, 0058, 0029, 0037	
+cypgreek	psarin	0060	trapezha	tables in the villa	inm		
+cypgreek	psarin	0061	pinn'an	drink	inm		
+cypgreek	psarin	0062	spitin	other house	loc		
+cypgreek	psarin	0063	ghamon	wedding	inm		
+cypgreek	psarin	0064	I	the person telling the story	hum		
+cypgreek	psarin	0065	we	people from the village	hum		depicted reality
+cypgreek	psarin	0066	father	of 0002	hum		depicted reality
+cypgreek	psarin	0067	work	that the father did	inm		depicted reality
+cypgreek	psarin	0068	nets	to go fishing	inm		depicted reality
+cypgreek	psarin	0069	skylight	place where the nets are	loc		depicted reality
+cypgreek	psarin	0070	morning	the son goes fishing early in the morning	tme		
+cypgreek	psarin	0071	many	fish for his mother to cook and eat	mss		
+cypgreek	psarin	0072	punga	son's pocket	inm		depicted reality
+cypgreek	psarin	0073	morning		tme		depicted reality
+cypgreek	psarin	0074	wine		mss		depicted reality
+cypgreek	psarin	0075	tablecloth		inm		depicted reality
+cypgreek	psarin	0076	house	of the old woman	loc		
+cypgreek	psarin	0077	neron		mss		depicted reality
+cypgreek	psarin	0078	it	the water in his vessel	mss		
+cypgreek	psarin	0079	lires	the coins from the vessel	mss		depicted reality
+cypgreek	psarin	0080	them	the coins from the vessel	mss		depicted reality
+cypgreek	psarin	0081	queen	mother of girl	hum		depicted reality
+cypgreek	psarin	0082	lires	punds	mss		depicted reality
+cypgreek	psarin	0083	us		hum		depicted reality
+cypgreek	psarin	0084	nights	three nights	tme		depicted reality
+cypgreek	psarin	0085	nights	three nights	tme		
+cypgreek	psarin	0086	we	the girl and the son	hum	> 0002, 0028	depicted reality
+cypgreek	psarin	0087	cabriolet		inm		depicted reality
+cypgreek	psarin	0088	dozen		hum		depicted reality
+cypgreek	psarin	0089	we		hum		depicted reality
+cypgreek	psarin	0090	babies	two babies	hum		depicted reality
+cypgreek	psarin	0091	box		inm		depicted reality
+cypgreek	psarin	0092	news	from the village	abs		depicted reality
+cypgreek	psarin	0093	party		inm		depicted reality
+cypgreek	psarin	0094	tablecloths		inm		depicted reality
+cypgreek	psarin	0095	one	one of the visitors	hum	< 0059	depicted reality
+cypgreek	psarin	0096	we		hum		depicted reality
+cypgreek	psarin	0097	kolon	ass	bdp		depicted reality
+nkurd	muserz01	0001	Harûnê Rešît	Harun Resit	hum		
+nkurd	muserz01	0002	kurekî wî	son of Harun Resit	hum	> 0064; < 0066, 0078	
+nkurd	muserz01	0003	ewê	those who draw on the knowledge of astrology	hum		
+nkurd	muserz01	0004	stêrka	stars	inm		
+nkurd	muserz01	0006	cînarê te	neighbor	hum		
+nkurd	muserz01	0007	jinekî	daughter neighbor will have	hum		
+nkurd	muserz01	0008	nod û neha heba	ninety-nine men that 0007 will sleep with	hum		
+nkurd	muserz01	0009	qederê	destiny of 0002	abs		
+nkurd	muserz01	0010	zêrê wî	gold of 0002	inm		
+nkurd	muserz01	0011	merifa	men of 0002	hum	> 0015	
+nkurd	muserz01	0012	xanîye xwe	house of 0002	loc		
+nkurd	muserz01	0013	malê	houses around 0012	loc		
+nkurd	muserz01	0014	hefta	a week / seven days that it will take a neighbor of 0002 to get pregnant	tme		
+nkurd	muserz01	0015	yekê wî	one of 0011	hum	< 0011	
+nkurd	muserz01	0016	me	0011 and 0002	hum		
+nkurd	muserz01	0017	dê	mother 0002 believes to be 0006	hum	< 0020	
+nkurd	muserz01	0018	bavê	husband of 0017	hum	< 0020	
+nkurd	muserz01	0019	wê	daughter 0002 believes to be 0007	hum	< 0060, 0078	
+nkurd	muserz01	0020	hun	0017 and 0018	hum	> 0017, 0018	
+nkurd	muserz01	0021	zêr	weight of daughter in gold	inm		
+nkurd	muserz01	0022	sandiqekî	a box of iron	inm		
+nkurd	muserz01	0023	Kêra xwe	knife of 0002	inm		
+nkurd	muserz01	0024	qirika kecikê	throat of 0019	bdp	M 0019	
+nkurd	muserz01	0025	merifekî	a man without children	hum	< 0034	
+nkurd	muserz01	0026	masîyan	fish that 0025 catches	anm		
+nkurd	muserz01	0027	jinik	wife of 0025	hum	< 0034	
+nkurd	muserz01	0028	tora xwe	net of 0025	inm		
+nkurd	muserz01	0029	hespê	horse of 0025	anm	> 0152	
+nkurd	muserz01	0030	ereba xwe	cart for 0029	inm		
+nkurd	muserz01	0031	malê	home of 0025	loc		
+nkurd	muserz01	0032	derî	door of 0031	loc	M 0031	
+nkurd	muserz01	0033	xwedê	God	abs		
+nkurd	muserz01	0034	em	0025 and 0027	hum	> 0025, 0027	
+nkurd	muserz01	0035	kakûça	hammers of 0034	inm		
+nkurd	muserz01	0036	kilît	locks of 0022	inm		
+nkurd	muserz01	0037	hekîma	doctors 0034 call	hum		
+nkurd	muserz01	0038	çavê	eyes of 0019	bdp	M 0019	
+nkurd	muserz01	0039	gundî	villagers of 0019 and 0034	hum		
+nkurd	muserz01	0040	gundê	village of 0039 and 0019 and 0034	loc		
+nkurd	muserz01	0041	gencê	youths of 0040	hum		
+nkurd	muserz01	0042	min	(narrator of story)	hum		not part of story
+nkurd	muserz01	0043	adekî	island below 0040	loc		
+nkurd	muserz01	0044	ormanekî	forest of 0043	loc		
+nkurd	muserz01	0045	hevalê	friends of 0019	hum		
+nkurd	muserz01	0046	došekê	bedding for 0019	inm	< 0049, 0051	
+nkurd	muserz01	0047	balîfê	cushions for 0019	inm	< 0049, 0051	
+nkurd	muserz01	0048	xwarinê	food for 0019	inm	< 0049	
+nkurd	muserz01	0049	ZERO	0046 + 0047 + 0048	inm	> 0046, 0047, 0048	
+nkurd	muserz01	0050	çîkî	kind of home for 0019 in forest of island	loc		
+nkurd	muserz01	0051	yataxekî	0046 + 0047	inm	> 0046, 0047	
+nkurd	muserz01	0052	bendekî	belt of 0019	inm		
+nkurd	muserz01	0053	girêkekî	notch in 0052	inm		
+nkurd	muserz01	0054	merifa	99 men she has slept with (see also 0008)	hum		
+nkurd	muserz01	0055	šehrekî	town 0019 comes through	loc		
+nkurd	muserz01	0056	soqaqekî	a street of 0055	loc		
+nkurd	muserz01	0057	çaršûye	market of 0055	loc		
+nkurd	muserz01	0058	pîrekî	old woman	hum	< 0060	
+nkurd	muserz01	0059	odekî	room for 0019 from 0058	loc		
+nkurd	muserz01	0060	me	0058 + 0019	hum	> 0058, 0019	
+nkurd	muserz01	0061	malê	home of 0060	loc	> 0062, 0063	
+nkurd	muserz01	0062	odekî	room of 0061	loc	M 0061	
+nkurd	muserz01	0063	derî	door of 0062	inm	M 0062, 0061	
+nkurd	muserz01	0064	rûyê	beard of 0002	bdp	M 0002	
+nkurd	muserz01	0065	hevalê	friends of 0002	hum	< 0066	
+nkurd	muserz01	0066	em	0002 + 0065	hum	> 0002, 0065, 0077, 0125	
+nkurd	muserz01	0067	Stembolê	Istanbul	loc		
+nkurd	muserz01	0068	dinyê	the world	inm		
+nkurd	muserz01	0069	qîza	girl 0002 wants to meet on the world tour	hum		
+nkurd	muserz01	0070	Müzê	museum of 0055	loc		
+nkurd	muserz01	0071	antîqê	historical sites of 0055	loc		
+nkurd	muserz01	0072	loqantê	restaurant 0066 eat in	loc		
+nkurd	muserz01	0073	soqaqa	street of 0061	inm		
+nkurd	muserz01	0074	xesîra	sleeping mat of 0058	inm		
+nkurd	muserz01	0075	te	(listener)	hum		not part of story
+nkurd	muserz01	0076	zêra	ten pieces of gold from 0002 to 0058	inm	> 0123, 0124	
+nkurd	muserz01	0077	hevalek	one of 0066	hum	< 0066	
+nkurd	muserz01	0078	em	0002 + 0019	hum	> 0002, 0019	
+nkurd	muserz01	0079	šehrê	city of Basra	loc		
+nkurd	muserz01	0080	oda	room of 0078	loc		
+nkurd	muserz01	0081	çekê	clothes of 0019	inm		
+nkurd	muserz01	0082	lawan	sons of 0002 + 0019	hum		
+nkurd	muserz01	0083	pirabokê	witch that chooses hour of death of 0019	anm		
+nkurd	muserz01	0084	hostan	craftsmen	hum	< 0087	
+nkurd	muserz01	0085	mîmaran	architects	hum	< 0087	
+nkurd	muserz01	0086	mihendizan	engineers	hum	< 0087	
+nkurd	muserz01	0087	hun	0084 + 0085 + 0086	hum	> 0084, 0085, 0086	
+nkurd	muserz01	0088	koškekî	castle	loc	> 0089, 0090, 0091, 0092, 0133	
+nkurd	muserz01	0089	derîyan	doors of 0088	inm	> 0092, 0135, 0136; M 0088	
+nkurd	muserz01	0090	qulê	keyhole of 0088	inm	M 0088	
+nkurd	muserz01	0091	dîwar	wall of 0088	inm	M 0088	
+nkurd	muserz01	0092	kîlît	key of 0089	inm	M 0088	
+nkurd	muserz01	0093	Koškekî	actually built palace (see also 0088)	loc	> 0094	
+nkurd	muserz01	0094	derê	doors of 0093	inm	M 0093	
+nkurd	muserz01	0095	law	two sons of 0019 +  0002	hum		
+nkurd	muserz01	0096	nigê	feet of 0019	bdp	M 0019	
+nkurd	muserz01	0097	jêlî	needle of 0083	inm		
+nkurd	muserz01	0098	mezal	grave	inm		
+nkurd	muserz01	0099	mezal	graveyard	loc		
+nkurd	muserz01	0100	bot	boats	inm		
+nkurd	muserz01	0101	nav	name of son	abs		
+nkurd	muserz01	0102	emr	age of Mihemed	abs		
+nkurd	muserz01	0103	ilm	knowledge of astronomy	abs		
+nkurd	muserz01	0104	malê	neighbor's house	loc		
+nkurd	muserz01	0105	çax	age of marriage	abs		
+nkurd	muserz01	0106	helal	religious ceremony	abs		
+nkurd	muserz01	0107	der	place where daughter is born	loc		
+nkurd	muserz01	0108	mov	slice of skin	bdp	M 0019	
+nkurd	muserz01	0109	xwedê	God	abs		
+nkurd	muserz01	0110	bela	misfortune	abs		
+nkurd	muserz01	0111	derd	trouble of the cut up girl	abs		
+nkurd	muserz01	0112	deniz	sea	loc		
+nkurd	muserz01	0113	qet	pieces of the girl	bdp	M 0019	
+nkurd	muserz01	0114	xirab	bad habits	abs		
+nkurd	muserz01	0115	heq	reward for sleeping with a man	abs		
+nkurd	muserz01	0116	çî	the mountains	loc		
+nkurd	muserz01	0117	dev	coast	loc		
+nkurd	muserz01	0118	mesref	costs for girl	abs		
+nkurd	muserz01	0119	nan	food for 0019	inm		
+nkurd	muserz01	0120	nan	midday meal	inm		
+nkurd	muserz01	0121	qayîk	boats	inm		
+nkurd	muserz01	0122	kîbîr	arrogance	abs		
+nkurd	muserz01	0123	zêr	eight gold pieces	inm	< 0076	
+nkurd	muserz01	0124	zer	two gold pieces	inm	< 0076	
+nkurd	muserz01	0125	çav	eyes of 0066	bdp	M 0066	
+nkurd	muserz01	0126	zer	gold for girl	inm		
+nkurd	muserz01	0127	ro	forty days	tme		
+nkurd	muserz01	0128	mahra	marriage ceremony	abs		
+nkurd	muserz01	0129	ecel	hour of death	abs		
+nkurd	muserz01	0130	emir	orders	abs		
+nkurd	muserz01	0131	av	water	inm		
+nkurd	muserz01	0132	kanî	well	inm		
+nkurd	muserz01	0133	erd	floor of the palace	inm	M 0088	
+nkurd	muserz01	0134	salon	living room	loc		
+nkurd	muserz01	0135	derî	door of 0088	inm	M 0089	
+nkurd	muserz01	0136	derî	door of 0088	inm	M 0089	
+nkurd	muserz01	0137	desmej	ritual ablutions	abs		
+nkurd	muserz01	0138	fal	fortunes told by the fortune tellers	abs		
+nkurd	muserz01	0139	remil	dices to tell fortune	inm		
+nkurd	muserz01	0140	qeder	destinies of people	abs		
+nkurd	muserz01	0141	insan	people	hum		
+nkurd	muserz01	0142	sebeb	cause for 0002 not being married	abs		
+nkurd	muserz01	0143	peya	watchman	hum		
+nkurd	muserz01	0144	fal	prediction by fortune tellers about marriage of 0002	abs		
+nkurd	muserz01	0145	xatir	satisfaction of 0002	abs		
+nkurd	muserz01	0146	tesir	influence of 0002	abs		
+nkurd	muserz01	0147	ci	distant place	loc		
+nkurd	muserz01	0148	kar	work	abs		
+nkurd	muserz01	0149	idar	livelihood	abs		
+nkurd	muserz01	0150	masi	fish	anm		
+nkurd	muserz01	0151	deng	sound of the hooves of the horses	abs		
+nkurd	muserz01	0152	nig	horses' hooves	bdp	M 0029	
+nkurd	muserz03	0001	šahê	king of the fairies	hum	< 0022	
+nkurd	muserz03	0002	qîzekî	daughter of the king, dove	hum	> 0005; < 0022, 0024	
+nkurd	muserz03	0003	melekî	mullah	hum	< 0024	
+nkurd	muserz03	0004	destê	hand of mullah	bdp	M 0003	
+nkurd	muserz03	0005	nigê	leg of the dove	bdp	M 0002	
+nkurd	muserz03	0006	adekî	island	loc		
+nkurd	muserz03	0007	pêya	foot of the Mullah	bdp	M 0003	
+nkurd	muserz03	0008	serî	head of th Mullah	bdp	M 0003	
+nkurd	muserz03	0009	çav-mave	eye of the mullah	bdp	M 0003	
+nkurd	muserz03	0010	gûl	roses	inm		
+nkurd	muserz03	0011	sosin	lilies	inm		
+nkurd	muserz03	0012	çiçek	flowers	inm		
+nkurd	muserz03	0013	dar	trees	inm		
+nkurd	muserz03	0014	koškekî	palace	loc	> 0015	
+nkurd	muserz03	0015	derî	door of the palace	inm	M 0014	
+nkurd	muserz03	0016	cemaatekî	assembly in palace	abs		
+nkurd	muserz03	0017	merivekî	man wearing imam's robe in assembly	hum	> 0020	
+nkurd	muserz03	0018	cubbekî	robe of imam	inm		
+nkurd	muserz03	0019	pêçekî	white turban of imam	inm		
+nkurd	muserz03	0020	serî	head of imam	bdp	M 0017	
+nkurd	muserz03	0021	minarê	minaret	loc		
+nkurd	muserz03	0022	me	king and his daughter	hum	> 0001, 0002	
+nkurd	muserz03	0023	şertekî	condition of king for marrying daughter	abs		
+nkurd	muserz03	0024	we	mullah and daughter of king	hum	> 0003, 0002	
+nkurd	muserz03	0025	royê	fourty days	tme		
+nkurd	muserz03	0026	cîkî	bed that mullah and daughter sleep in	inm		
+nkurd	muserz03	0027	bedewîya	beauty of daughter of the king	abs		
+nkurd	muserz03	0028	zeynet	jewels of daughter	inm		
+nkurd	muserz03	0029	xemilandina	decoration of daughter	inm		
+nkurd	muserz03	0030	oda	room of daughter	inm		
+nkurd	muserz03	0031	teklifa	suggestion	abs		
+nkurd	muserz03	0032	cîyê	place where mullah descended	loc		
+nkurd	muserz03	0033	wezîrê	viziers of the king	hum	> 0144	
+nkurd	muserz03	0034	çarşuyê	market	loc		
+nkurd	muserz03	0035	merifan	three important men the viziers bring to the king	hum		
+nkurd	muserz03	0036	paşa	pasha, king	hum		
+nkurd	muserz03	0037	merîfekî	blacksmith	hum		
+nkurd	muserz03	0038	demir	iron of blacksmith	inm		
+nkurd	muserz03	0039	haceta	tools that blacksmith makes	inm		
+nkurd	muserz03	0040	kakuçê	hammer of blacksmith	inm		
+nkurd	muserz03	0041	dikkana	shop of blacksmith	loc		
+nkurd	muserz03	0042	xwelî	pile of ash in blacksmith's shop	mss		
+nkurd	muserz03	0043	xembêza	breast of blacksmith	bdp	M 0037	
+nkurd	muserz03	0044	zêrê	gold of blacksmith	mss		
+nkurd	muserz03	0045	desta	hands of blacksmith	bdp	M 0037	
+nkurd	muserz03	0046	merîfekî	blind man	hum		
+nkurd	muserz03	0047	çavan	eyes of blind man	bdp	M 0046	
+nkurd	muserz03	0048	destê	hands of the blind man	bdp	M 0046	
+nkurd	muserz03	0049	parsê	alms	mss		
+nkurd	muserz03	0050	zêrekî	piece of gold for blind man	inm		
+nkurd	muserz03	0051	min	(story teller)	hum		not part of story
+nkurd	muserz03	0052	we	(listeners of story)	hum		not part of story
+nkurd	muserz03	0053	mesela	(story of the king of the fairies and his daughter)	abs		not part of story
+nkurd	muserz03	0054	zêr	gold of daughter of the king of fairies	mss		
+nkurd	muserz03	0056	emaretê	emaret of daughter of the king of fairies	loc		
+nkurd	muserz03	0057	acîya	pain of not reaching the dove	abs		
+nkurd	muserz03	0058	wî	fact of not reaching the dove	abs		
+nkurd	muserz03	0059	zikê	stomach of mullah	bdp	M 0003	
+nkurd	muserz03	0062	zarokê	children of the blacksmith	hum		
+nkurd	muserz03	0063	nanê	bread for blacksmith	inm		
+nkurd	muserz03	0064	xwarina	food for the blacksmith	mss		
+nkurd	muserz03	0065	mirîşkekî	chicken that blacksmith bought	anm		
+nkurd	muserz03	0066	agirê	fire in shop of blacksmith	inm		
+nkurd	muserz03	0067	komirê	coals in fire	inm		
+nkurd	muserz03	0068	nanê	meal he made	inm		
+nkurd	muserz03	0069	pişîkekî	cat	anm		
+nkurd	muserz03	0070	hêteki	leg of the chicken	bdp	M 0065	
+nkurd	muserz03	0071	baskekî	wing of the chicken	bdp	M 0065	
+nkurd	muserz03	0072	sêrbaze	sorcery	abs		
+nkurd	muserz03	0073	miselletê	problem	abs		
+nkurd	muserz03	0074	serê	head of blacksmith	bdp	M 0037	
+nkurd	muserz03	0075	hestîyê	bone of the chicken	bdp	M 0065	
+nkurd	muserz03	0077	canê	spirit of blacksmith	abs		
+nkurd	muserz03	0078	bavê	father of blind man, merchant	hum		
+nkurd	muserz03	0079	varîdata	yearly income of father	abs		
+nkurd	muserz03	0080	tan	fence of the neighbors	inm		
+nkurd	muserz03	0081	niçê	negative reply of neighbors	abs		
+nkurd	muserz03	0082	cînara	neighbors	hum		
+nkurd	muserz03	0083	mala	house of blind man's father	loc		
+nkurd	muserz03	0084	şûrekî	sword of father of blind man	inm		
+nkurd	muserz03	0085	dayê	mother of blind man	hum		
+nkurd	muserz03	0086	devê	edge of the sword	inm	M 0084	
+nkurd	muserz03	0087	çîyê	mountains	loc		
+nkurd	muserz03	0088	serê	side of the road	loc		
+nkurd	muserz03	0089	rê	road	inm		
+nkurd	muserz03	0090	merifekî	a merchant	hum		
+nkurd	muserz03	0091	devekî	camel of the merchant	anm		
+nkurd	muserz03	0092	heqîbekî	saddle bag	inm		
+nkurd	muserz03	0093	milê	shoulder of the merchant	bdp	M 0090	
+nkurd	muserz03	0094	esker	army, police	hum		
+nkurd	muserz03	0095	serê çîyê	top of the mountain	loc		
+nkurd	muserz03	0096	mala	house of the merchant	loc		
+nkurd	muserz03	0097	zêra	gold in the saddle bag	mss		
+nkurd	muserz03	0098	zarokên	children of the blind man	hum		
+nkurd	muserz03	0099	heqîbekî	another bag of gold	inm		
+nkurd	muserz03	0100	devekî	another camel	anm		
+nkurd	muserz03	0101	heqîb	two bags of gold	inm		
+nkurd	muserz03	0102	deveyên	two camels	anm		
+nkurd	muserz03	0103	heqîb	seven bags of gold	inm		
+nkurd	muserz03	0104	deva	seven camels	anm		
+nkurd	muserz03	0105	çoluk-çocuxê	children and family of the merchant	hum		
+nkurd	muserz03	0106	destê	hands of the merchant	bdp	M 0090	
+nkurd	muserz03	0107	hedîyekî	present of merchant	inm		
+nkurd	muserz03	0108	cêba	pocket of merchant	inm		
+nkurd	muserz03	0109	çîyayê	another mountain	loc		
+nkurd	muserz03	0110	mêş	flies on mountain	anm		
+nkurd	muserz03	0111	mar	snake	anm		
+nkurd	muserz03	0112	cavê	another eye of blind man	bdp	M 0046	
+nkurd	muserz03	0113	perîya	fairies	hum		
+nkurd	muserz03	0114	însana		hum		
+nkurd	muserz03	0115	qîzê	daughters of fairies	hum		
+nkurd	muserz03	0116	merivekî	man the daughter should look for to marry	hum		
+nkurd	muserz03	0117	dilê	heart of the daughter of the king of fairies	abs		
+nkurd	muserz03	0118	bira	mind of 0116	abs		
+nkurd	muserz03	0119	sozê	oath of the man the princess will choose to marry	abs		
+nkurd	muserz03	0120	dengê	voice of the mullah	abs		
+nkurd	muserz03	0123	derî	a door of the palace	inm		
+nkurd	muserz03	0124	kurika	anvil	inm		
+nkurd	muserz03	0125	madê	mood of blacksmith	abs		
+nkurd	muserz03	0126	kefa	palm of hand of blacksmith	bdp	M 0037	
+nkurd	muserz03	0127	agir	fire	inm		
+nkurd	muserz03	0128	binî	bottom of workbench	loc		
+nkurd	muserz03	0129	xêr	charity	abs		
+nkurd	muserz03	0130	guneyê	misdeed	abs		
+nkurd	muserz03	0131	tuccara	merchants	hum		
+nkurd	muserz03	0132	pera	money he wants to take from the merchants	mss		
+nkurd	muserz03	0133	hayat	life	abs		
+nkurd	muserz03	0134	zêr	all the gold of the merchant	mss		
+nkurd	muserz03	0135	dinyayê	world	inm		
+nkurd	muserz03	0136	çawekî	first eye the ointment is rubbed on	bdp	M 0046	
+nkurd	muserz03	0137	çarşîyê	the market the blind man will see things in	loc		
+nkurd	muserz03	0138	şehrekî	town the blind man sees	loc		
+nkurd	muserz03	0139	insanê	people in the town	hum		
+nkurd	muserz03	0140	qirikê	neck of the merchant	bdp	M 0090	
+nkurd	muserz03	0141	serê	head of blind man	bdp	M 0046	
+nkurd	muserz03	0142	çoka	lap of merchant	bdp	M 0090	
+nkurd	muserz03	0143	şehrê	outskirts of town	loc		
+nkurd	muserz03	0144	ZERO	one of the viziers, probably their leader	hum	< 0033	
+nkurd	muserz03	0145	ezan	prayers	abs		only mentioned as zero
+nkurd	muserz03	0146	hewa	air	inm		
+nkurd	muserz03	0147	behr	sea	loc		
+nkurd	muserz03	0148	his	senses	abs		
+nkurd	muserz03	0149	tesir	effect of the air	abs		
+nkurd	muserz03	0150	reya	ways of pleasure, amusement and fun	abs		
+nkurd	muserz03	0151	suwar	a rider	hum		
+sanzhi	asabali	0000	people		hum		
+sanzhi	asabali	0001	the war		abs		
+sanzhi	asabali	0002	years of 0001		tmp		
+sanzhi	asabali	0003	speaker		hum		
+sanzhi	asabali	0004	name of 0003		abs	M 0003	
+sanzhi	asabali	0005	record book		inm		
+sanzhi	asabali	0006	village head		hum		
+sanzhi	asabali	0007	the year 1953		tmp		
+sanzhi	asabali	0008	Stalin		hum		
+sanzhi	asabali	0009	cars		inm		
+sanzhi	asabali	0010	trains		inm		
+sanzhi	asabali	0011	mountains		loc		
+sanzhi	asabali	0012	sound of 0010		inm		
+sanzhi	asabali	0013	there		loc		
+sanzhi	asabali	0014	sheep		anm		
+sanzhi	asabali	0015	kolkhoz		abs		
+sanzhi	asabali	0016	army		abs		
+sanzhi	asabali	0017	enlistment office		inm		
+sanzhi	asabali	0018	application		inm		
+sanzhi	asabali	0019	train		inm		
+sanzhi	asabali	0020	army officials		hum		
+sanzhi	asabali	0021	0003 and other recruits		hum	> 0003	
+sanzhi	asabali	0022	Voronezh		loc		
+sanzhi	asabali	0023	a captain		hum		
+sanzhi	asabali	0024	soldiers		hum		
+sanzhi	asabali	0025	hospital		inm		
+sanzhi	asabali	0026	a corridor in 0025		loc		
+sanzhi	asabali	0027	commissariat		loc		
+sanzhi	asabali	0028	Dargi people		hum	< 0021	
+sanzhi	asabali	0029	canteen		loc		
+sanzhi	asabali	0030	porridge		mss		
+sanzhi	asabali	0031	half of 0030		mss	M 0030	
+sanzhi	asabali	0032	other half of 0030		mss	M 0030	
+sanzhi	asabali	0033	eyes of 0003		bdp	M 0003	
+sanzhi	asabali	0034	a train		inm		
+sanzhi	asabali	0035	army officials		hum	> 0023	
+sanzhi	asabali	0036	Kursk		loc		
+sanzhi	asabali	0037	Kursk station		loc		
+sanzhi	asabali	0038	car of 0035		inm		
+sanzhi	asabali	0039	barracks		loc		
+sanzhi	asabali	0040	the Russian language		abs		
+sanzhi	asabali	0041	people		hum		
+sanzhi	asabali	0042	guardhouse		inm		
+sanzhi	asabali	0043	guard company		hum		
+sanzhi	asabali	0044	people		hum		
+sanzhi	asabali	0045	mine		loc		
+sanzhi	asabali	0046	volunteers		hum		
+sanzhi	asabali	0047	mother of 0003		hum		
+sanzhi	asabali	0048	miners		hum	> 0003, 0044	
+sanzhi	asabali	0049	three Daghestani		hum	> 0003; < 0044	
+sanzhi	asabali	0050	two Russians		hum	< 0044	
+sanzhi	asabali	0051	finger of 0003		bdp	M 0003	
+sanzhi	asabali	0052	an engine		inm		
+sanzhi	asabali	0053	hospital		inm		
+sanzhi	asabali	0054	home of 0003		loc		
+sanzhi	asabali	0055	money		inm		
+sanzhi	asabali	0056	mine officals		hum		
+sanzhi	asabali	0057	people		hum		
+sanzhi	asabali	0058	prosecutor		hum		
+sanzhi	asabali	0059	Urkaraq		loc		
+sanzhi	asabali	0060	house of 0003		inm		
+sanzhi	asabali	0061	documents		inm		
+sanzhi	asabali	0062	Sanzhi		loc		
+sanzhi	asabali	0063	driving course		loc		
+sanzhi	asabali	0064	workers		hum		
+sanzhi	asabali	0065	wine factory		inm		
+sanzhi	asabali	0066	wine		inm		
+sanzhi	asabali	0067	story		abs		
+sanzhi	asabali	0068	people		hum		
+sanzhi	asabali	0069	here		loc		
+sanzhi	asabali	0070	events		abs		
+sanzhi	asabali	0071	service		abs		
+sanzhi	bazhuk	0000	a boy		hum		
+sanzhi	bazhuk	0001	father of 0000		hum		
+sanzhi	bazhuk	0002	a flock of sheep		anm		
+sanzhi	bazhuk	0003	a place		loc		
+sanzhi	bazhuk	0004	trees		inm		
+sanzhi	bazhuk	0005	home of 0000		loc		
+sanzhi	bazhuk	0006	words of 0001		abs		
+sanzhi	bazhuk	0007	apple tree		inm	< 0004	
+sanzhi	bazhuk	0008	apples		inm	M 0007	
+sanzhi	bazhuk	0009	bazhuk		hum		
+sanzhi	bazhuk	0010	apples		inm	M 0007	
+sanzhi	bazhuk	0011	a sack		inm		
+sanzhi	bazhuk	0012	a place		loc		
+sanzhi	bazhuk	0013	bush		loc		
+sanzhi	bazhuk	0014	house of 0009		loc		
+sanzhi	bazhuk	0015	a pot		inm		
+sanzhi	bazhuk	0016	stones		inm		
+sanzhi	bazhuk	0017	a box		inm		
+sanzhi	bazhuk	0018	little finger of 0009		bdp	M 0009	
+sanzhi	bazhuk	0019	water in 0015		mss		
+sanzhi	dragon	0000	a village		loc		
+sanzhi	dragon	0001	a family		hum		
+sanzhi	dragon	0002	a girl		hum	< 0001	
+sanzhi	dragon	0003	dogs		anm		
+sanzhi	dragon	0004	food for 0003		inm		
+sanzhi	dragon	0005	people		hum		
+sanzhi	dragon	0006	eating people		abs		
+sanzhi	dragon	0007	villagers		hum		
+sanzhi	dragon	0008	one villager		hum	< 0007	
+sanzhi	dragon	0009	teeth of 0002		bdp	M 0002	
+sanzhi	dragon	0010	brother of 0002		hum	< 0001	
+sanzhi	dragon	0011	other villagers		hum		
+sanzhi	dragon	0012	house of 0001		inm		
+sanzhi	dragon	0013	a mouse		anm		
+sanzhi	dragon	0014	house of 0013		loc		
+sanzhi	dragon	0015	story		abs		
+sanzhi	dragon	0016	other village		loc		
+sanzhi	dragon	0017	three trees		inm		
+sanzhi	dragon	0018	one of 0017		inm		
+sanzhi	dragon	0019	village dogs		anm	> 0003	
+sanzhi	dragon	0020	whistling		abs		
+sanzhi	dragon	0021	second of 0017		inm		
+sanzhi	dragon	0022	third of 0017		inm		
+sanzhi	dragon	0023	little finger of 0002		bdp	M 0002	
+sanzhi	dragon	0024	father of 0010		hum	< 0001	
+sanzhi	dragon	0025	mother of 0010		hum	< 0001	
+sanzhi	dragon	0026	belly of 0002		bdp	M 0002	
+sanzhi	dragon	0027	a girl		hum		
+sanzhi	dragon	0028	sound made by 0010		abs		
+sanzhi	kurban	0000	(speaker)		hum		
+sanzhi	kurban	0001	cousin of 0000		hum		
+sanzhi	kurban	0002	audience		hum		
+sanzhi	kurban	0003	sister of 0000		hum		
+sanzhi	kurban	0004	forty-day vigil		abs		
+sanzhi	kurban	0005	0000 and family		hum	< 0000, 0001	
+sanzhi	kurban	0006	home of 0000		inm		
+sanzhi	kurban	0007	family of 0000		hum	< 0005	
+sanzhi	kurban	0008	a friend of 0000		hum		
+sanzhi	kurban	0009	Cilibki village		loc		
+sanzhi	kurban	0010	village head		hum		
+sanzhi	kurban	0011	head of the district administration		hum		
+sanzhi	kurban	0012	such		abs		
+sanzhi	kurban	0013	0000 and 0008		hum	> 0000, 0008	
+sanzhi	kurban	0014	such		abs		
+sanzhi	kurban	0015	agronomist		hum		
+sanzhi	kurban	0016	expert on livestock		hum		
+sanzhi	kurban	0017	veterinarian		hum		
+sanzhi	kurban	0018	people of 0009		hum		
+sanzhi	kurban	0019	such		abs		
+sanzhi	kurban	0020	time to go there		tmp		
+sanzhi	kurban	0021	0008 and others		hum	> 0008	
+sanzhi	kurban	0022	family except 0001		hum	< 0005	
+sanzhi	kurban	0023	brother Ramazan		hum	< 0005	
+sanzhi	kurban	0024	qulhu		inm		
+sanzhi	kurban	0025	everyone		hum	> 0000, 0001, 0005, 0008, 0023	
+sanzhi	kurban	0026	office of 0011		loc		
+sanzhi	kurban	0027	husband		hum		
+sanzhi	kurban	0028	wife		hum		
+sanzhi	kurban	0029	other villagers in 0009		hum		
+sanzhi	kurban	0030	other engineers in 0009		hum		
+sanzhi	kurban	0031	other mechanics in 0009		hum		
+sanzhi	kurban	0032	other villagers in 0009		hum		
+sanzhi	kurban	0033	one of 0027 and 0028		hum	< 0027, 0028	
+sanzhi	kurban	0034	villagers of 0009		hum	> 0029, 0030, 0031, 0032	
+sanzhi	kurban	0035	circumstances		abs		
+sanzhi	kurban	0036	that problem		abs		
+sanzhi	kurban	0037	the fifth day		tmp		
+sanzhi	kurban	0038	Noghay district		loc		
+sanzhi	kurban	0039	a woman from 0009		hum		
+sanzhi	kurban	0040	someone else		hum		
+sanzhi	kurban	0041	story		abs		
+sanzhi	kurban	0042	story		abs		
+sanzhi	kurban	0043	another sister of 0000 (?),		hum		
+sanzhi	kurban	0044	everyone		hum	> 0000, 0005, 0008, 0023	
+sanzhi	kurban	0045	0001 and 0039		hum	> 0001, 0039	
+sanzhi	kurban	0046	people in 0009		hum	> 0029, 0030, 0031, 0032, 0034	
+sanzhi	mill	0000	a mill		inm		depicted reality
+sanzhi	mill	0001	the Sanzhi people		hum		
+sanzhi	mill	0002	grain		inm		
+sanzhi	mill	0003	the first mill		inm		
+sanzhi	mill	0004	the first location		loc		
+sanzhi	mill	0005	channel		inm		
+sanzhi	mill	0006	millhouse		inm		
+sanzhi	mill	0007	a man		hum		
+sanzhi	mill	0008	Allah		hum		
+sanzhi	mill	0009	one of 0001		hum	< 0001	
+sanzhi	mill	0010	two boys		hum	< 0001, 0034	
+sanzhi	mill	0011	water		mss		
+sanzhi	mill	0012	sound of 0011		abs		
+sanzhi	mill	0013	a windmill		inm		depicted reality
+sanzhi	mill	0015	the second mill		inm		
+sanzhi	mill	0016	big river		inm		
+sanzhi	mill	0017	banks of 0016		loc	M 0016	
+sanzhi	mill	0018	channel		inm		
+sanzhi	mill	0019	water		mss		
+sanzhi	mill	0020	other villagers		hum		
+sanzhi	mill	0021	qadis		hum		
+sanzhi	mill	0022	mullahs		hum		
+sanzhi	mill	0023	one of 0021, 0022		hum	< 0021, 0022	
+sanzhi	mill	0024	bride		hum		
+sanzhi	mill	0025	nose of 0024		bdp	M 0024	
+sanzhi	mill	0026	millstone		inm	M 0015	
+sanzhi	mill	0027	hammer		inm		
+sanzhi	mill	0028	part of 0015		inm	M 0015	
+sanzhi	mill	0029	heart of 0015		inm	M 0015	
+sanzhi	mill	0030	water		mss		
+sanzhi	mill	0031	the third place		loc		
+sanzhi	mill	0032	the third mill		inm		
+sanzhi	mill	0033	a bride		hum		depicted reality
+sanzhi	mill	0034	builders		hum	< 0001; > 0009	
+sanzhi	mill	0035	that		abs		
+sanzhi	mill	0036	water		mss		
+sanzhi	mill	0037	people and bride		hum	> 0001, 0024	
+sanzhi	patima	0000	Patima		hum		
+sanzhi	patima	0001	family of 0000		hum	> 0000	
+sanzhi	patima	0002	house of 0001		inm		
+sanzhi	patima	0003	a nut		inm		
+sanzhi	patima	0004	chimney of 0002		inm	M 0002	
+sanzhi	patima	0005	sisters of 0000		hum	< 0001	
+sanzhi	patima	0006	one of 0005		hum	< 0005	
+sanzhi	patima	0007	another of 0005		hum	< 0005	
+sanzhi	patima	0008	forest		loc		
+sanzhi	patima	0009	nuts		inm		
+sanzhi	patima	0010	a sack		inm		
+sanzhi	patima	0011	a wolf		anm		
+sanzhi	patima	0012	story		abs		
+sanzhi	patima	0013	0000 and 0011		hum	> 0000, 0011	
+sanzhi	patima	0014	entrance of 0002		loc		
+sanzhi	patima	0015	a fox		anm		
+sanzhi	patima	0016	story		abs		
+sanzhi	patima	0017	deeds		abs		
+sanzhi	patima	0018	0015 and 0011		anm	> 0011, 0015	
+sanzhi	patima	0019	a place		loc		
+sanzhi	patima	0020	urine		inm		bridging-contained: reference to light verb complement
+sanzhi	patima	0021	ice		inm		
+sanzhi	patima	0022	a fork		inm		
+sanzhi	patima	0023	a spade		inm		
+sanzhi	patima	0024	belly of 0011		bdp		
+sanzhi	patima	0025	0000 and 0005		hum	> 0000, 0005	
+sanzhi	patima	0026	mattress		inm		
+sanzhi	patima	0027	barn		loc		
+sanzhi	patima	0028	cotton		inm		
+sanzhi	patima	0029	door		inm	M 0002	
+sanzhi	ramazan	0000	a journalist		hum		
+sanzhi	ramazan	0001	Tawlu		hum		
+sanzhi	ramazan	0002	an article		abs		
+sanzhi	ramazan	0003	surname of 0001		abs		
+sanzhi	ramazan	0004	such		abs		
+sanzhi	ramazan	0005	passport of 0001		inm		
+sanzhi	ramazan	0006	such		abs		
+sanzhi	ramazan	0007	a story like this		abs		
+sanzhi	ramazan	0008	stories like this		abs		
+sanzhi	ramazan	0009	the most beautiful place		abs		
+sanzhi	ramazan	0010	the world		loc		
+sanzhi	ramazan	0011	(speaker)		hum		
+sanzhi	ramazan	0012	Latvia		loc		
+sanzhi	ramazan	0013	fruit		inm		
+sanzhi	ramazan	0014	forests		loc		
+sanzhi	ramazan	0015	roads in 0012		inm		
+sanzhi	ramazan	0016	lorry of 0011		inm		
+sanzhi	ramazan	0017	towns in 0012		loc		
+sanzhi	ramazan	0018	traffic lights		inm		
+sanzhi	ramazan	0019	two people		hum		
+sanzhi	ramazan	0020	three people		hum		
+sanzhi	ramazan	0021	end of the road		loc		
+sanzhi	ramazan	0022	house in 0012		loc		
+sanzhi	ramazan	0023	pieces of asphalt		inm		
+sanzhi	ramazan	0024	chewing gum		inm		
+sanzhi	ramazan	0025	asphalt		inm		
+sanzhi	ramazan	0026	(impersonal reference)		hum		
+sanzhi	ramazan	0027	the letter D		inm		
+sanzhi	ramazan	0028	middle of licence plate		loc		
+sanzhi	ramazan	0029	front of the lorry		loc		
+sanzhi	ramazan	0030	that trick		abs		
+sanzhi	ramazan	0031	a Russian woman		hum		
+sanzhi	ramazan	0032	0011 and others		hum	> 0011	
+sanzhi	ramazan	0033	torso of 0011		bdp	M 0011	
+sanzhi	ramazan	0034	gold		inm		
+sanzhi	ramazan	0035	dressing table		inm		
+sanzhi	ramazan	0036	audience		hum		
+sanzhi	ramazan	0037	rings		inm		
+sanzhi	ramazan	0038	bracelets		inm		
+sanzhi	ramazan	0039	all things		inm		
+sanzhi	ramazan	0040	money		inm		
+sanzhi	ramazan	0041	wealth of 0031		inm		
+sanzhi	ramazan	0042	circumstances		abs		
+sanzhi	ramazan	0043	lock		inm		
+sanzhi	ramazan	0044	first neighbour		hum		
+sanzhi	ramazan	0045	second and third neighbour		hum		
+sanzhi	ramazan	0046	our place		loc		
+sanzhi	ramazan	0047	face of 0011		bdp	M 0011	
+sanzhi	ramazan	0048	conscience of 0011		abs		
+sanzhi	ramazan	0049	room with 0035		loc		
+sanzhi	ramazan	0050	things not belonging to 0011		inm		
+sanzhi	ramazan	0051	being accused of theft		abs		
+sanzhi	ramazan	0052	a match		inm		
+sanzhi	ramazan	0053	light of 0052		inm		
+sanzhi	ramazan	0054	a cigarette		inm		
+sanzhi	ramazan	0055	passers-by		hum		
+sanzhi	ramazan	0056	cleanliness		abs		
+sanzhi	ramazan	0057	ashes		inm		
+sanzhi	ramazan	0058	like that		abs		
+sanzhi	ramazan	0059	such a place		loc		
+sanzhi	ramazan	0060	the worst place		loc		
+sanzhi	ramazan	0061	Azerbaijan		loc		
+sanzhi	ramazan	0062	every town		loc		
+sanzhi	ramazan	0063	Soviet Union		loc		
+sanzhi	ramazan	0064	a racket		abs		
+sanzhi	ramazan	0065	a scandal		abs		
+sanzhi	ramazan	0066	diesel fuel		mss		
+sanzhi	ramazan	0067	a hill		loc		
+sanzhi	ramazan	0068	petrol station		inm		
+sanzhi	ramazan	0069	a bucket of fuel		inm		
+sanzhi	ramazan	0070	attendant at 0068		hum		
+sanzhi	ramazan	0071	money for 0069		inm		
+sanzhi	ramazan	0072	a no entry sign		inm		
+sanzhi	ramazan	0073	other people at 0068		hum		
+sanzhi	ramazan	0074	one of 0073		hum	< 0073	
+sanzhi	ramazan	0075	another of 0073		hum	< 0073	
+sanzhi	ramazan	0076	another bucket		inm		
+sanzhi	ramazan	0077	such		abs		
+sanzhi	ramazan	0078	what 0011 had done		abs		
+sanzhi	ramazan	0079	0070 and 0073		hum	> 0070, 0073	
+sanzhi	ramazan	0081	like that		abs		
+sanzhi	ramazan	0082	place like 0081		loc		
+sanzhi	ramazan	0083	events		abs		
+sanzhi	ramazan	0084	event		abs		
+sanzhi	ramazan	0085	Estonia		loc		
+sanzhi	ramazan	0086	a person		hum		
+sanzhi	ramazan	0087	Estonians		hum		
+sanzhi	ramazan	0088	Icari people		hum		
+sanzhi	ramazan	0089	market		loc		
+sanzhi	ramazan	0090	bus		inm		
+sanzhi	ramazan	0091	a town		loc		
+sanzhi	ramazan	0092	Latvians		hum		
+sanzhi	ramazan	0093	people who do not speak Latvian		hum		
+sanzhi	ramazan	0094	Moldova		loc		
+sanzhi	ramazan	0095	home of 0011		loc		
+sanzhi	ramazan	0096	0001 and 0000		hum	> 0001, 0000	
+sanzhi	ramazan	0097	this kind of thing		abs		
+sanzhi	ramazan	0098	that		abs		
+sanzhi	tape	0000	Kajakent		loc		
+sanzhi	tape	0001	speaker and friends		hum		
+sanzhi	tape	0002	Abdulkhalik		hum	< 0000	
+sanzhi	tape	0003	Isakadi		hum	< 0000	
+sanzhi	tape	0004	(speaker)		hum	< 0000	
+sanzhi	tape	0005	work of 0000		abs		
+sanzhi	tape	0006	survey		abs		
+sanzhi	tape	0007	roundabout		inm		
+sanzhi	tape	0008	one side of 0007		loc	M 0007	
+sanzhi	tape	0009	a place		loc		
+sanzhi	tape	0010	0000 and 0002		hum	> 0000, 0002	
+sanzhi	tape	0011	here		loc		
+sanzhi	tape	0012	car		inm		
+sanzhi	tape	0013	shop		inm		
+sanzhi	tape	0014	assistant		hum		
+sanzhi	tape	0015	tape		inm		
+sanzhi	tape	0016	one roll of 0015		inm		
+sanzhi	tape	0017	mouth of 0002		bdp	M 0002	
+sanzhi	tape	0018	surveyors		hum		
+teop	iar	0004	moon	girl	hum	> 0093, 0099; < 0077, 0118	referent introduced on a meta level
+teop	iar	0005	hena	name of 0004	abs		
+teop	iar	0006	ta vasu	little piece of stone 0004 is made of	inm		
+teop	iar	0010	moon	a woman	hum	< 0042, 0064, 0077, 0091	
+teop	iar	0011	inu	house of 0010	loc		
+teop	iar	0012	oil	oil	mss		
+teop	iar	0017	piuvu	piuvu dance	abs		
+teop	iar	0020	poa	shelf	loc		
+teop	iar	0021	nahu	pot	inm		
+teop	iar	0022	nahu	clay pot for 0006	loc		
+teop	iar	0024	moon	women	hum		
+teop	iar	0025	nahu	many pots of 0024	inm		
+teop	iar	0026	nahu	pots with pork	inm	< 0025	
+teop	iar	0027	nahu	pots with taro	inm	< 0025	
+teop	iar	0028	nahu	pots with fish	inm	< 0025	
+teop	iar	0041	muta-naa	husband	hum	< 0042, 0064, 0077	
+teop	iar	0042	ori	0041 and 0010	hum	> 0041, 0010; < 0064, 0077	
+teop	iar	0046	paepa	birth certificate	inm		
+teop	iar	0047	inu vahuhu	hospital	loc		
+teop	iar	0048	buku	book where children are registered	inm		
+teop	iar	0049	beiko	children that are registered in book	hum		
+teop	iar	0051	tavaan	people around 0042	hum	< 0064, 0077	
+teop	iar	0053	paku	feast	abs		
+teop	iar	0054	taba-an	lots of food	mss		
+teop	iar	0055	mohina	garden	loc		
+teop	iar	0056	taro	taro	inm	< 0067	
+teop	iar	0057	pauna	banana	inm	< 0067	
+teop	iar	0058	voi	yam	inm	< 0067	
+teop	iar	0061	vaan	village	loc		
+teop	iar	0063	bon	the day when the garden is ready to be harvested	tme		
+teop	iar	0064	a-re	0042 and 0051	hum	< 0077	
+teop	iar	0065	guu	pigs for the feast	anm		
+teop	iar	0066	iana	fish for the feast	anm		
+teop	iar	0067	vaa	food from the garden	inm		
+teop	iar	0068	piuvu	piuvu dance	abs		
+teop	iar	0069	koomaa	chanting	abs		
+teop	iar	0070	beera	chief in the village	hum	< 0077	
+teop	iar	0072	karavus	garamut drum	inm		
+teop	iar	0073	moon	the women of 0051	hum	< 0051, 0091	
+teop	iar	0074	abana	the men of 0051	hum	< 0051	
+teop	iar	0075	inu	house of 0070	loc		
+teop	iar	0076	moroko	speech	abs		
+teop	iar	0077	eara	0070 and 0064	hum	> 0070, 0064, 0051, 0042, 0041, 0010, 0004	
+teop	iar	0078	hagi	dance	abs		
+teop	iar	0079	tookiu	one week (during which the men go fishing)	tme		
+teop	iar	0080	tookiu	next week (when the men come back)	tme		
+teop	iar	0081	Monday	Monday next week	tme		
+teop	iar	0082	bon	night	tme		
+teop	iar	0083	subunubu	tomorrow	tme		
+teop	iar	0085	rapa-n=	side of the house of 0070	loc		
+teop	iar	0087	vohu	belts of 0004	inm	< 0092	
+teop	iar	0088	kara	strings of 0004	inm	< 0092	
+teop	iar	0089	taba	things from the bush of 0004	inm	< 0092	
+teop	iar	0090	rasuu	bush	loc		
+teop	iar	0091	ori	0073 and 0010 (= the women from the village)	hum	> 0073, 0010	
+teop	iar	0092	bari	belts, strings and things from the bush (0087, 0088, 0089)	inm	> 0087, 0088, 0089	
+teop	iar	0093	moo	legs of 0004	bdp	< 0004	
+teop	iar	0094	hena	name of 0004	abs		
+teop	iar	0095	beiko	children	hum		
+teop	iar	0096	otei	a man	hum	< 0098	
+teop	iar	0097	taba-an	food	mss		
+teop	iar	0098	am	0096 and family	hum		
+teop	iar	0099	suin	body of 0004	inm	< 0004	
+teop	iar	0100	tahii	sea	loc		
+teop	iar	0101	ruene	river	loc		
+teop	iar	0102	ruene	water	loc		
+teop	iar	0103	konoboo	oil	mss		
+teop	iar	0104	mohina	garden 0004 can make	loc		
+teop	iar	0107	naono	firewood	inm		
+teop	iar	0108	kiu	work 0004 can do	abs		
+teop	iar	0109	taba-an	food	mss		
+teop	iar	0112	roanabai	mother in law	hum	< 0098, 0118	
+teop	iar	0113	avue	sister in law	hum	< 0098	
+teop	iar	0114	roanabai	males in law	hum	< 0098	
+teop	iar	0115	roanabai	females in law	hum	< 0098	
+teop	iar	0116	avue	sisters in law	hum	< 0098	
+teop	iar	0117	raen	nc	hum		
+teop	iar	0118	ori	0112 and 0004	hum	> 0112, 0004	
+teop	iar	0119	vagana	fish	anm		
+teop	iar	0123	taba	things	mss		
+teop	iar	0124	puhana	high tide	abs		
+teop	iar	0125	irihi	edge of the reef	loc		
+teop	iar	0126	masi	dry reef	loc		
+teop	mat	0001	vaan	village	loc		
+teop	mat	0002	beiko	little children in the village	hum		
+teop	mat	0003	moon	pregnant woman in the village	hum	< 0020, 0022, 0025	
+teop	mat	0004	bai	mango tree	loc		
+teop	mat	0006	bai	mango the pregnant woman would like to eat (direct speech)	inm		depicted reality
+teop	mat	0008	pusu	stump of the mango tree	inm		
+teop	mat	0009	ZERO	mangos in the tree the woman throws at	inm	> 0010	
+teop	mat	0010	bai	mango that falls down	inm	< 0009	
+teop	mat	0011	roosuu	giant sitting in front of a cave	anm	< 0022, 0025	
+teop	mat	0013	avaava	cave	loc	< 0014	
+teop	mat	0014	matavus	door of the cave	inm	< 0013	
+teop	mat	0015	tavaan	people of the village looking for the woman	hum		
+teop	mat	0018	beiko	child	hum	< 0020, 0022	
+teop	mat	0019	vuhun	bow the giant makes for the child	inm		
+teop	mat	0020	ori	the woman and the child	hum	> 0003, 0018	
+teop	mat	0021	guu	pig giant brings back from pig hunting	anm		
+teop	mat	0022	ori	the woman, the child and the giant	anm	> 0003, 0018, 0011	
+teop	mat	0023	tabaan	unsalted food	mss		
+teop	mat	0024	tahii	saltwater	mss		
+teop	mat	0025	a-re	the woman and the giant	anm	> 0003, 0011	
+teop	mat	0026	subunubu	tomorrow (the day the giant will get saltwater)	tme		
+teop	mat	0027	kururu	bamboo giant cuts	inm		
+teop	mat	0028	kasuana	beach where the giant gets saltwater	loc		
+teop	mat	0029	mohina	garden of the grandmother	loc		
+teop	mat	0030	suburi	grandparents of 0018	hum	> 0031, 0033	
+teop	mat	0031	sumeke	the old man (the grandfather)	hum	< 0030	
+teop	mat	0032	voora	mountains	loc		
+teop	mat	0033	ZERO	grandmother	hum	< 0030	
+teop	mat	0034	pauna	banana plant	loc		
+teop	mat	0035	pauna	bananas of 0034	inm		
+teop	mat	0036	tabaan	food for 0003 who had disappeared	mss		
+teop	mat	0037	mohina muu	taro garden of 0030	loc		
+teop	mat	0038	inu	house of 0030	loc		
+teop	mat	0039	guu	pigs that are butchered for 0020	anm		
+teop	mat	0040	tabaan	all kinds of food to be prepared for 0020	mss		
+teop	mat	0041	night	time when food will be prepared (in the night)	tme		
+teop	mat	0042	veoveo	the village square	loc		
+teop	sii	0001	roosuu	giant	hum	< 0011, 0118	
+teop	sii	0002	naovana	all kinds of animals the giant can change into	anm		
+teop	sii	0005	tobara otei	group of men sitting on the beach	hum	> 0041, 0039, 0036, 0035, 0034, 0033, 0032, 0048, 0052, 0053, 0068, 0069, 0071, 0078, 0080, 0083, 0088, 0091, 0094, 0101, 0114, 0120, 0122, 0067, 0141, 0143; < 0011, 0128	
+teop	sii	0006	kasuana	the beach	loc		
+teop	sii	0008	tahii	sea	loc		
+teop	sii	0009	taba	another thing taught by the giant (actual one)	abs		
+teop	sii	0010	ariono	ariono vines (actual ones)	inm		
+teop	sii	0011	eara	the giant and the group of men	hum	> 0001, 0005, 0041, 0039, 0036, 0035, 0034, 0033, 0032, 0048, 0052, 0053, 0068, 0069, 0071, 0078, 0080, 0083, 0088, 0091, 0094, 0101, 0114, 0120, 0118, 0122, 0067, 0143; < 0128	
+teop	sii	0012	kave	nets for catching fish	inm		
+teop	sii	0013	rasuu	jungle	loc		depicted reality
+teop	sii	0014	raviana	raviana vines to be cut in the jungle (plan of giant, not actual ones)	inm		depicted reality
+teop	sii	0015	ariono	ariono vines (plan of giant, not actual ones)	inm		depicted reality
+teop	sii	0016	kara	fibre in the middle of the ariono vines	inm		
+teop	sii	0017	kanono	string for the net made of fibre of ariono vines	inm		
+teop	sii	0018	roava	sun	inm		
+teop	sii	0020	taba	another thing to be taught by the giant (plan of giant, not actual thing)	abs		
+teop	sii	0021	kara kave	kave vines cut by the men and the giant	inm		
+teop	sii	0025	ZERO	actual nets the fishermen tie	inm	> 0042	
+teop	sii	0027	baoru	bamboo frame	inm	> 0123	
+teop	sii	0029	kanono	ropes	inm		
+teop	sii	0030	hum	these two parts (the pulling and opening of the net)	abs		
+teop	sii	0032	vapara-me=	partners of each man in the group of men	hum	< 0005, 0011, 0128	
+teop	sii	0033	enam	one group of partners	hum	< 0005, 0011, 0128	
+teop	sii	0034	enam	one group of partners	hum	< 0005, 0011, 0128	
+teop	sii	0035	enam	one group of partners	hum	< 0005, 0011, 0128	
+teop	sii	0036	enam	one group of partners	hum	< 0005, 0011, 0128	
+teop	sii	0039	aba	missing partner for the giant	hum	< 0005, 0011, 0128	
+teop	sii	0041	otei	man who does not have a net	hum	< 0005, 0011, 0128	
+teop	sii	0042	ZERO	one of the nets, used by giant and his partner	inm	< 0025	
+teop	sii	0043	kae	bags of the men	inm		
+teop	sii	0044	sinivi	canoes of the men	inm	> 0079, 0087, 0090, 0093, 0110, 0125	
+teop	sii	0045	iana	fish	inm		
+teop	sii	0047	moon	women of the men	hum	< 0128	
+teop	sii	0048	otei	one man in the group of men	hum	< 0005, 0011, 0128	
+teop	sii	0049	hagi	dances the woman make in the gogi celebration	abs		
+teop	sii	0050	mararae	joy of the women about the catched fish	abs		
+teop	sii	0051	ZERO	the fishing	abs		
+teop	sii	0052	ean	one man of the group	hum	< 0005, 0011, 0128	
+teop	sii	0053	ean	one man of the group	hum	< 0005, 0011, 0128	
+teop	sii	0054	ei	clans of the men in the group	abs		
+teop	sii	0055	too Karipa	Karipa clan	abs		
+teop	sii	0056	an	man from the Karipa clan	hum		
+teop	sii	0057	moon	woman from the Boen clan	hum		
+teop	sii	0058	moon	woman from the NaoBoen clan	hum		
+teop	sii	0059	manae	men from the NaoKaripa clan	hum		
+teop	sii	0061	abana	men of the NaoBoen clan	hum		
+teop	sii	0064	iana	fish	anm	> 0081; < 0076	
+teop	sii	0067	ZERO	team of beaters	hum	< 0005, 0011, 0128	
+teop	sii	0068	naba	group of blockade paddlers	hum	> 0069, 0071; < 0005, 0011, 0128	
+teop	sii	0069	meha	one of the group of blockade paddlers	hum	< 0005, 0011, 0068, 0128	
+teop	sii	0070	kave	net of 0069	inm		
+teop	sii	0071	meha	one of the group of blockade paddlers	hum	< 0005, 0011, 0068, 0128	
+teop	sii	0072	kave	net of 0071	inm		
+teop	sii	0076	iana	fish from both first rounds of fishing (0064 and 0077)	anm	> 0064, 0077, 0081, 0089, 0092, 0095; < 0086	
+teop	sii	0077	iana	more fish in the sea	anm	> 0081; < 0076	
+teop	sii	0078	otei	one man in the group of men	hum	> 0080; < 0005, 0011, 0128,	
+teop	sii	0079	sinivi	canoe of 0078	inm	< 0044	
+teop	sii	0080	nam	our (0078 and his partner)	hum	< 0005, 0011, 0078, 0128	
+teop	sii	0081	iana	fish filling the canoe of 0080	anm	< 0077, 0064, 0076	
+teop	sii	0082	hum	this part to be left for next time	inm		
+teop	sii	0083	meha	another man of the group	hum	< 0005, 0011, 0128	
+teop	sii	0084	vaa-sun	one more round of fishing	abs		
+teop	sii	0085	taba	one thing that was forgotten	abs		
+teop	sii	0086	taba	the food that was cooked (taro and fish)	mss	> 0099, 0076, 0064, 0077, 0081, 0089, 0092, 0095	
+teop	sii	0087	sinivi	one of the canoes	inm	< 0044	
+teop	sii	0088	an	your (one of the men)	hum	< 0005, 0011, 0128	
+teop	sii	0089	iana	one fish	inm	< 0076	
+teop	sii	0090	sinivi	one of the canoes	inm	< 0044	
+teop	sii	0091	an	one of the men	hum	< 0005, 0011, 0128	
+teop	sii	0092	iana	one fish	inm	< 0076	
+teop	sii	0093	sinivi	one of the canoes	inm	< 0044	
+teop	sii	0094	an	one of the men	hum	< 0005, 0011, 0128	
+teop	sii	0095	iana	one fish	inm	< 0076	
+teop	sii	0096	tao-tao	act of baking and cooking	abs		
+teop	sii	0097	papana	one cooking group	hum	< 0128	unclear if < 0005, or 0011, or 0047 or all of them
+teop	sii	0098	papana	other cooking group	hum	< 0129	unclear if < 0005, or 0011, or 0047 or all of them
+teop	sii	0099	taro	taro	inm	< 0086	
+teop	sii	0101	otei	one man in the group of men	hum	< 0005, 0011, 0128	
+teop	sii	0102	boni	this night	tme		
+teop	sii	0104	va-goo-gogi	celebration	abs		
+teop	sii	0105	iana	fish to be caught that night	anm	> 0106, 0108	
+teop	sii	0106	aba	one of the fish to be caught	anm	< 0105	
+teop	sii	0108	aba	one of the fish to be caught	anm	< 0105	
+teop	sii	0110	sinivi	one of the canoes	inm	< 0044	
+teop	sii	0111	iana	fish that are caught in the night	inm	> 0112, 0121	
+teop	sii	0112	iana	one fish that was caught the giant wants	inm	< 0111	
+teop	sii	0113	hena	name of the fish the giant wants	abs		
+teop	sii	0114	otei	the man in the giant's canoe	hum	< 0005, 0011, 0118, 0128	
+teop	sii	0116	iana	fish the man thinks is making the sound	anm	> 0117	
+teop	sii	0117	vihi-na	tail of the fish	bdp	< 0116	
+teop	sii	0118	nam	the giant and the man in his canoe	hum	> 0001, 0114; < 0011	
+teop	sii	0120	papana	everyone in the group 0005 except for 0114	hum	< 0005, 0011, 0128	
+teop	sii	0121	iana	fish that were caught by 0118 (giant and his partner)	inm	< 0111	
+teop	sii	0122	otei	another man of the group	hum	< 0005, 0011, 0128	
+teop	sii	0123	baoru	one of the bamboo frames	inm	< 0027	
+teop	sii	0125	sinivi	the canoe 0114 got on to get away from the giant	inm	< 0044	
+teop	sii	0127	beiko	children of the people in the village	hum	< 0128	
+teop	sii	0128	ori	everybody in the village	hum	> 0005, 0047, 0127, 0041, 0039, 0036, 0035, 0034, 0033, 0032, 0048, 0052, 0053, 0068, 0069, 0071, 0078, 0080, 0083, 0088, 0091, 0094, 0101, 0114, 0120, 0122, 0067, 0130, 0141, 0143	
+teop	sii	0129	vaan	the village	loc		
+teop	sii	0130	taegoora	one man with sore bottom	hum	< 0128	
+teop	sii	0131	avaava	cave of the giant	loc	> 0139	
+teop	sii	0132	koara	decision what to do about the giant	abs		
+teop	sii	0134	tabaan	food	mss		
+teop	sii	0135	pusu kuhikuhi	war clubs	inm		
+teop	sii	0136	toraara	axes	inm		
+teop	sii	0137	ipoana	stone axes	inm		
+teop	sii	0139	matavusu	door of the giant	inm	< 0131	
+teop	sii	0141	papana	another group of the men	hum	< 0128, 0005, 0011	
+teop	sii	0142	pusu kuhikuhi	war club	inm		
+teop	sii	0143	aba	person that went to meet giant while others are hiding	hum	< 0128, 0005, 0011	
+teop	sii	0144	taapeau	spears	inm		
+teop	sii	0145	vasu	stones	inm		
+teop	sii	0146	Boen	Boen clan	abs		
+teop	sii	0147	NaoBoen	NaoBoen clan	abs		
+teop	sii	0148	NaoKaripa	NaoKaripa clan	abs		
+teop	viv	0001	otei	man (Piipii)	hum	> 0021, 0022, 0026	
+teop	viv	0003	ruene	river	loc		
+teop	viv	0004	vasu	stone	inm		
+teop	viv	0007	nubunubu	morning when he goes to the river to wash and sunbathe	tme		
+teop	viv	0008	hum	place where sun shines	loc		
+teop	viv	0009	roava	sun	inm		
+teop	viv	0011	otei	two men	hum	> 0012, 0013	
+teop	viv	0012	meha	one of the two men (with a blind eye)	hum	< 0011	
+teop	viv	0013	meha	the other one of the two men (with a rotten nose)	hum	> 0035; < 0011	
+teop	viv	0014	nubunubu	the next morning	tme		
+teop	viv	0015	beiko	other little children bathing in the river	hum		
+teop	viv	0017	ta naono	actual piece of wood the giants use	inm		
+teop	viv	0018	hopo	cave of the two giants	loc		
+teop	viv	0019	vakokona	plan the giants make	abs		
+teop	viv	0020	ta naono	a piece of wood the giants want to get	inm		
+teop	viv	0021	moo	the feet of 0001	bdp	< 0001	
+teop	viv	0022	kuri	the hands of 0001	bdp	< 0001	
+teop	viv	0023	hanana	track the giants are walking on	loc		
+teop	viv	0024	vakokona	idea 0001 has to rescue himself	abs		
+teop	viv	0025	kara	string on hands of 0001	inm		
+teop	viv	0026	suin	body of 0001	bdp	< 0001	
+teop	viv	0028	pea	branch hanging on the track	inm		
+teop	viv	0030	naono	tree	inm		
+teop	viv	0031	vaan	village	loc		
+teop	viv	0032	naono	trees the giants look up to find the boy	inm		
+teop	viv	0035	mata	eyes of Rottennose (one of the giants)	bdp	< 0013	
+teop	viv	0036	pusu	base of the tree 0001 is sitting on	loc		
+teop	viv	0037	peha	one of the giants	hum	< 0011	
+teop	viv	0038	ZERO	one of the giants	hum	< 0011	
+tulil	all1	0001	ibən	land Butan	loc		
+tulil	all1	0002	tor	log of wood	inm		
+tulil	all1	0003	ZERO	Kankan	hum		
+tulil	all1	0004	v	grandfather of speaker	hum		
+tulil	all1	0005	gup	hunting of Kankan	abs		
+tulil	all1	0006	kəvənau	big rain	inm		
+tulil	all1	0007	tipur	forest	loc		
+tulil	all1	0008	kəvop	dogs	anm		
+tulil	all1	0009	Voi	pig river	loc	< 0028	
+tulil	all1	0010	itən	name of the pig river	abs		
+tulil	all1	0011	tarn	umbrella	inm		
+tulil	all1	0012	kən	river bank	loc		
+tulil	all1	0013	vəret	one side of the river	loc		
+tulil	all1	0014	nangə	trees (in the river)	inm		
+tulil	all1	0015	ZERO	flood	inm		
+tulil	all1	0016	ioi	sea	loc		
+tulil	all1	0017	məngəd	home village of 0003	loc		
+tulil	all1	0018	tor	log of wood; dragon	anm	> 0020, 0021	
+tulil	all1	0019	itən	name of dragon (Levator)	abs		
+tulil	all1	0020	nung	bottom of dragon	bdp	M 0018	
+tulil	all1	0021	lat	head of dragon	bdp	M 0018	
+tulil	all1	0022	vəret	other side of the river	loc		
+tulil	all1	0024	kəbərion	dream	abs		
+tulil	all1	0025	nga	speaker	hum		
+tulil	all1	0026	lat	head of pig river	loc	M 0028	
+tulil	all1	0027	Vərgoi	Vergoi river	loc	< 0028	
+tulil	all1	0028	maok	places where dragon goes	loc	> 0009, 0026, 0027	
+tulil	all1	0029	ro	bamboo	inm		
+tulil	all1	0030	nangə	trees	inm		
+tulil	all1	0031	ZERO	the people of New Ireland	hum		
+tulil	all1	0032	NiuAiland	New Ireland	loc		
+tulil	all1	0033	Ailand	island (that is actually the dragon)	inm		
+tulil	alrm	0001	ZERO	speaker	hum	> 0060, 0062, 0071, 0073; < 0006, 0034, 0054	
+tulil	alrm	0002	kəvənav	rain	inm		
+tulil	alrm	0003	məln	cousin, Fidelis Veninar	hum	> 0050; < 0006, 0034	
+tulil	alrm	0004	itən	name of cousin	abs		
+tulil	alrm	0005	laləng	the year 1994	tme		
+tulil	alrm	0006	tang	speaker and cousin	hum	> 0001, 0003; < 0034	
+tulil	alrm	0007	nə-mumə	place of departure, probably location of speaker	loc		
+tulil	alrm	0008	west coast	where they are going	loc		
+tulil	alrm	0009	central new ireland	central new ireland	loc		
+tulil	alrm	0010	məngəd	place which they call Lambu	loc		
+tulil	alrm	0011	ZERO	they (generic)	hum		
+tulil	alrm	0012	məngədə	village, home of in-law Senta	loc		
+tulil	alrm	0013	vadok	in-law	hum	< 0017, 0034	
+tulil	alrm	0014	Senta	name of in-law (Senta)	abs		
+tulil	alrm	0015	atad	church	inm		
+tulil	alrm	0016	dərng	wife of Senta	hum	< 0017, 0034	
+tulil	alrm	0017	ta	wife and Senta	hum	> 0016, 0013; < 0034	
+tulil	alrm	0018	vənu	sun	inm	> 0069	
+tulil	alrm	0019	təre	things	inm		
+tulil	alrm	0020	tipur	bush	inm	< 022	
+tulil	alrm	0021	nangə	trees	inm	> 0078; < 0022	
+tulil	alrm	0022	idə.	bushes and trees	inm	> 0020, 0021	
+tulil	alrm	0023	bu	betelnut	inm		
+tulil	alrm	0024	mərəm	fruit	inm		
+tulil	alrm	0025	turin	fire	inm		
+tulil	alrm	0026	nangə	really big trees	inm		
+tulil	alrm	0027	ioi	water	mss		
+tulil	alrm	0028	Mətəvut,	Mətəvut,	loc		
+tulil	alrm	0029	toktok	ending of Mətəvut,	loc		
+tulil	alrm	0030	Dava	Dava	loc	> 0031	
+tulil	alrm	0031	do	head of Dava	bdp	M 0030	
+tulil	alrm	0032	tuk	big road	loc		
+tulil	alrm	0033	molimoli	people that are jailed	hum		
+tulil	alrm	0034	ZERO	speaker, cousin, and people from 0010	hum	> 0001, 0003, 0006, 0013, 0016, 0017, 0036	
+tulil	alrm	0035	maok	time of staying in 0010	tme		
+tulil	alrm	0036	molimoli	people from 0010	hum	< 0034	
+tulil	alrm	0037	tangədə,	cooking	abs		
+tulil	alrm	0038	nakən.	drinking	abs		
+tulil	alrm	0039	tivən	rocks on the road	inm		
+tulil	alrm	0040	bərən.'	mountain	loc		
+tulil	alrm	0041	kəguing.	grass	inm		
+tulil	alrm	0042	balut	birds	anm		
+tulil	alrm	0043	lovakəti	hotness	abs		
+tulil	alrm	0046	təre	Something 0003 wants to make	inm		
+tulil	alrm	0047	nang	herbs to make it rain	inm		
+tulil	alrm	0048	itən,	name of herbs	abs		
+tulil	alrm	0049	tukər	wound of 0003	inm		
+tulil	alrm	0050	katə	feet of 0003	bdp	M 0003	
+tulil	alrm	0051	ngari	big peanut tree	loc		
+tulil	alrm	0052	ro	bamboo	inm		
+tulil	alrm	0053	Langer	David Langer	hum	< 0054	
+tulil	alrm	0054	ZERO	David Langer and speaker	hum	> 0001, 0053, 0073	
+tulil	alrm	0055	nang	herb with the name of a-kidəkidam	inm	> 0058	
+tulil	alrm	0056	itən	name of 0055	abs		
+tulil	alrm	0057	a-purpur	flower	inm		
+tulil	alrm	0058	u	leaf of 0055	inm	M 0055	
+tulil	alrm	0059	urəng	waterfall	loc	> 0086	
+tulil	alrm	0060	nok	hand of 0001	bdp	M 0001	
+tulil	alrm	0061	kəbitə	rope-plants at waterfall	inm		
+tulil	alrm	0062	kuvit	nails of 0001	bdp	M 0001	
+tulil	alrm	0063	utəm	sky	inm		
+tulil	alrm	0064	kəmur	smoke, big gray cloud	inm		
+tulil	alrm	0065	bərivu	wind	inm		
+tulil	alrm	0066	vət	place where sun goes down	loc		
+tulil	alrm	0067	vət	place where the sun rises	loc		
+tulil	alrm	0068	ianem	lightning	inm		
+tulil	alrm	0069	umi	the sun's eye	bdp	M 0018	
+tulil	alrm	0070	tərotərot	raindrops	inm		
+tulil	alrm	0071	do	head of speaker	bdp	M 0001	
+tulil	alrm	0072	vərdət	darkness	abs		
+tulil	alrm	0073	mi	eyes of 0054	bdp	M 0054, 0001	
+tulil	alrm	0074	vul	night	tme		
+tulil	alrm	0075	a-tade	two weeks	tme		
+tulil	alrm	0076	miləmiləng	drizzling	inm		
+tulil	alrm	0077	kəvəlok	shoots on the trees	inm		
+tulil	alrm	0078	kən	neck of the trees	inm	M 0021	
+tulil	alrm	0079	kəvəlok	buds on the bush	inm		
+tulil	alrm	0080	vəti	two days	tme		
+tulil	alrm	0081	vəti	one day	tme		
+tulil	alrm	0082	mukəm	in-law of David, one of Senta's fathers	hum	< 0085	
+tulil	alrm	0083	ti	fathers of Senta	hum		
+tulil	alrm	0084	dərng	0082's wife	hum	< 0085	
+tulil	alrm	0085	ZERO	0082 and 0084	hum	> 0082, 0084	
+tulil	alrm	0086	nung	bottom of waterfall	inm	M 0059	
+tulil	alrm	0087	von	time when the rain was falling heavily	tme		
+tulil	alrm	0088	ZERO	flood from the heavy rain	inm		
+tulil	alrm	0089	tənovən,	rubbish pile	inm		
+tulil	alrm	0090	təron	smell of decay	inm		
+tulil	alrm	0091	kənogəl	black flies	anm		
+tulil	alrm	0092	logə	bridges	inm		
+tulil	alrm	0093	vəduvədur	cars	inm		
+tulil	alrm	0094	bokbok	message that rain destroyed bridges, and speaker and friend made a thing to harm others	abs		
+tulil	alrm	0095	təre	something bad that harms people	inm		
+tulil	alrm	0096	to-Vəvəi	Vevei	hum		
+tulil	alrm	0097	dərng	Vevei's wife	hum		
+tulil	alrm	0098	lovakəti	anger of the flood / rain potion	inm		
+tulil	alrm	0099	kəru~kərung	thunder	inm		
+tulil	alrm	0100	molimoli	people on the bridges	hum		
+tulil	alrm	0101	Keviang	Keviang	loc		
+tulil	alrm	0102	Namatanai.	Namatanai.	loc		
+tulil	alrm	0103	a-kəukəu	cocoa	inm	< 0115	
+tulil	alrm	0104	latu	garden	loc		
+tulil	alrm	0105	ZERO	banana trees	inm		
+tulil	alrm	0106	kədikən	anger between 0085	abs		
+tulil	alrm	0107	mətmət	food for 0006	inm		
+tulil	alrm	0108	von	the way the bamboo should be removed	abs		
+tulil	alrm	0109	a-pəkət	knife	inm		
+tulil	alrm	0110	nə-bət	the cutting of the bamboo with a knife	abs		
+tulil	alrm	0111	maok	time when 0006 made the rain fall	tme		
+tulil	alrm	0112	bokbok	spell	abs		
+tulil	alrm	0113	maok	time when no rain was falling	tme		
+tulil	alrm	0114	iavava	dust	inm		
+tulil	alrm	0115	ZERO	food	inm	> 0116, 0103	
+tulil	alrm	0116	ləvək	banana	inm	< 0115	
+tulil	alrm	0117	ZERO	cassava	inm		
+tulil	alrm	0118	ləmat	coconut	inm		
+tulil	alrm	0119	ZERO	young men	hum		
+tulil	jkpp	0001	ZERO	mother of speaker	hum	> 0015; < 0013	
+tulil	jkpp	0002	ngang	speaker	hum	> 0090, 0109, 0110; < 0004, 0020, 0013, 0071, 0104	
+tulil	jkpp	0003	pən	big war	abs		
+tulil	jkpp	0004	du	the speaker and the other people living with him there at that time	hum	> 0002, 0020, 0021, 0022, 0023, 0024, 0025, 0026, 0062; < 0020	
+tulil	jkpp	0005	ləm	life of 0004	abs		
+tulil	jkpp	0006	mətmət	food	inm		
+tulil	jkpp	0007	laləng	four years war	tme		
+tulil	jkpp	0008	u-vi	airplanes in war	inm		
+tulil	jkpp	0009	maok	the sky	loc		
+tulil	jkpp	0010	bek	cave	loc		
+tulil	jkpp	0011	Vurvəgi	Vurvəgi river	loc		
+tulil	jkpp	0012	Gakora vekate	name of the place where they hid	abs		
+tulil	jkpp	0013	ZERO	speaker and mother	hum	> 0001, 0002	
+tulil	jkpp	0014	bərtəm	night when mother dies	tme		
+tulil	jkpp	0015	umək	breast of mother	bdp	M 0001	
+tulil	jkpp	0016	laik	uncle of speaker	hum	> 0026, 0053	
+tulil	jkpp	0017	itən	name of uncle	abs		
+tulil	jkpp	0018	uil	son of uncle	hum	> 0026	
+tulil	jkpp	0019	e-Nunu	wife of uncle	hum	> 0026, 0046	
+tulil	jkpp	0020	mativon	all brothers of speaker	hum	> 0002, 0004, 0021, 0022, 0023, 0024, 0025, 0026; < 0004	
+tulil	jkpp	0021	to-Pipite	brother of speaker Pipite	hum	> 0026; < 0020, 0004	
+tulil	jkpp	0022	e-Lula	brother of speaker Lula	hum	> 0026; < 0020, 0004	
+tulil	jkpp	0023	Tavinor	brother of speaker Tavinor	hum	> 0026; < 0020, 0004	
+tulil	jkpp	0024	Tade	brother of speaker Tade	hum	> 0026; < 0020, 0004	
+tulil	jkpp	0025	to-Melekit	brother of speaker Melekit	hum	> 0026; < 0020, 0004	
+tulil	jkpp	0026	ronəng	stomachs of 0004	bdp	M 0002, 0004, 0020, 0016, 0018, 0019, 0021, 0022, 0023, 0024, 0025	
+tulil	jkpp	0027	məngəda	home of 0004	loc		
+tulil	jkpp	0028	Toburut	guy they call after mother's death	hum		
+tulil	jkpp	0029	itən	name of 0028	abs		
+tulil	jkpp	0030	Tulil	Tulil language	abs		
+tulil	jkpp	0031	voin	ghosts	anm		
+tulil	jkpp	0032	məngəd	place that belongs to the ghosts; where mother stays after death	loc		
+tulil	jkpp	0033	urəng	Ureng ravup (waterfall); name of home of dead mother ghost	abs		
+tulil	jkpp	0034	e-Vuet	Vuet	hum		
+tulil	jkpp	0035	məngəd	village Ravup	loc		
+tulil	jkpp	0036	ZERO	whoever died	hum		
+tulil	jkpp	0037	idabi	spirits of the people who died	anm		
+tulil	jkpp	0038	iaor	fear of 0002	abs		
+tulil	jkpp	0039	a-bət	the thing that flies?	inm		
+tulil	jkpp	0040	tən	thinking of 0002	abs		
+tulil	jkpp	0041	uil	four children of uncle	hum	> 0042, 0043, 0044, 0045	
+tulil	jkpp	0042	e-Tadar	Tadar, first son of uncle	hum	< 0041, 0052	
+tulil	jkpp	0043	to-Varuvi	Varuvi, second child of uncle	hum	< 0041, 0052	
+tulil	jkpp	0044	Martin	Martin, third child of uncle	hum	< 0041	
+tulil	jkpp	0045	e-Patin	Patin, fourth child of uncle	hum	< 0041	
+tulil	jkpp	0046	kəbərək	blood of aunt	bdp	M 0019	
+tulil	jkpp	0047	do	place where 0002 puts dead 0019	loc		
+tulil	jkpp	0048	do	place where blood comes out from	loc		
+tulil	jkpp	0049	ibən	ground	loc		
+tulil	jkpp	0050	kəlum	plant uncle is picking	inm		
+tulil	jkpp	0051	Evek	Evek	loc		
+tulil	jkpp	0052	ZERO	Tadar and Varuvi	hum	> 0042, 0043	
+tulil	jkpp	0053	kən	neck of uncle	bdp	M 0016	
+tulil	jkpp	0054	idabi	spirit of uncle's wife	anm		
+tulil	jkpp	0055	laləng	the year 01985	tme		
+tulil	jkpp	0056	kəvov	nephew of 0002; Tagong	hum	< 0099	
+tulil	jkpp	0057	itən	name of 0056	abs		
+tulil	jkpp	0058	Malobanga	Malobanga	loc		
+tulil	jkpp	0059	bəli	pigs	anm		
+tulil	jkpp	0060	tipur	bush	loc		
+tulil	jkpp	0061	Gəngənit	name of bush	abs		
+tulil	jkpp	0062	ta	0004 without speaker	hum	< 0004	
+tulil	jkpp	0063	laləng	year when speaker goes to the bush for pigs	tme		
+tulil	jkpp	0064	a	pig that they get in the bush	anm		
+tulil	jkpp	0065	ləmat	coconuts	inm		
+tulil	jkpp	0066	a-pərəgum	wild taro	inm		
+tulil	jkpp	0067	ləvək	bananas	inm		
+tulil	jkpp	0068	kəvop	nephew of 0002; toKabang	hum	< 0071, 0099	
+tulil	jkpp	0069	itən	name of 0068	abs		
+tulil	jkpp	0070	kəvop	dog that 0068 feeds	anm		
+tulil	jkpp	0071	ZERO	0002 and 0068	hum	> 0002, 0068	
+tulil	jkpp	0072	kəlak	house in the bush 0071 make	loc		
+tulil	jkpp	0073	mərəm	bush flowers	inm		
+tulil	jkpp	0074	vəti	the day when they went hunting	tme		
+tulil	jkpp	0075	mənibərui	the next morning after 0074	tme		
+tulil	jkpp	0076	vətə	meat that 0071 look for	inm		
+tulil	jkpp	0077	məngəd	village Gaepka	loc		
+tulil	jkpp	0078	Mərubət	Bainings	abs		
+tulil	jkpp	0079	ləmat	two coconut trees	inm		
+tulil	jkpp	0080	ləmat	coconuts from the coconut tree 0071 want to find	inm	M 0081	
+tulil	jkpp	0081	gət	a few of the coconuts 0071 want to find	inm	< 0080	
+tulil	jkpp	0082	ta	the coconuts 0002 actually brings back	inm		
+tulil	jkpp	0083	bəli	huge pig 0071 find	anm	> 0085, 0086	
+tulil	jkpp	0084	bəro	river	loc		
+tulil	jkpp	0085	iduti	intestines of pig	bdp	M 0083	
+tulil	jkpp	0086	kəbərk	blood of pig	bdp	M 0083	
+tulil	jkpp	0087	kəbit	rope	inm		
+tulil	jkpp	0088	bokbok	story about Ravup	abs		
+tulil	jkpp	0089	laik	ancestors	hum		
+tulil	jkpp	0090	umi	eyes of 0002	bdp	M 0002	
+tulil	jkpp	0091	bitəmut	old belief	abs		
+tulil	jkpp	0092	vətak	places that have monsters	loc		
+tulil	jkpp	0093	Piupiu	Piupiu	anm		
+tulil	jkpp	0094	vəvat	monsters	anm		
+tulil	jkpp	0095	itən	name of 0092	abs		
+tulil	jkpp	0096	Tulil	Tulil people	hum		
+tulil	jkpp	0097	Bior	Tolai	loc		
+tulil	jkpp	0098	Nəpəpər.	Nəpəpər.	loc		
+tulil	jkpp	0099	kəvop	nephews of 0002	hum	> 0068, 0056, 0100, 0101, 0102	
+tulil	jkpp	0100	Lait	Lait, nephew	hum	< 0099	
+tulil	jkpp	0101	to-Uvi	to-Uvi, nephew	hum	< 0099	
+tulil	jkpp	0102	to-Pitdiat	to-Pitdiat, nephew	hum	< 0099	
+tulil	jkpp	0103	Atven	Atven	hum		
+tulil	jkpp	0104	udu	eight people that go down	hum	> 0002, 0112, 0120, 0134, 0146, 0147, 0152, 0160, 0161	
+tulil	jkpp	0105	a-purpur	flower	inm		
+tulil	jkpp	0106	a-pəlnə	church	loc		
+tulil	jkpp	0107	a-mesin	grass	inm		
+tulil	jkpp	0108	kətəbukbuk	thick mud	inm		
+tulil	jkpp	0109	mərkəm	leg of 0002	bdp	M 0002	
+tulil	jkpp	0110	nok	hand of 0002	bdp	M 0002	
+tulil	jkpp	0111	kən	voices of 0104	inm		
+tulil	jkpp	0112	ta-və	0104 without 0002	hum	< 0104	
+tulil	jkpp	0113	Toviloga	Toviloga	loc		
+tulil	jkpp	0114	Ekaevoi	Ekaevoi	loc		
+tulil	jkpp	0115	bərivu	wind	inm		
+tulil	jkpp	0116	itnav	storm	inm		
+tulil	jkpp	0117	pələ~pələp	lightning	inm		
+tulil	jkpp	0118	kəru~kərung	thunder	inm		
+tulil	jkpp	0119	kəvənav	rain	inm		
+tulil	jkpp	0120	katə	legs of 0104	bdp	M 0104	
+tulil	jkpp	0121	təgə	one footprint	inm		
+tulil	jkpp	0122	Laikpoi	Laikpoi	loc	< 0124	
+tulil	jkpp	0123	Piupiu	Piupiu river (not monster)	loc	< 0124	
+tulil	jkpp	0124	ioi	two rivers	loc	> 0122, 0123	
+tulil	jkpp	0125	itən	name of Piupiu river	abs		
+tulil	jkpp	0126	vənu	sun	inm		
+tulil	jkpp	0127	kəvənav	rains	inm		
+tulil	jkpp	0128	məl	clothes of 0104	inm		
+tulil	jkpp	0129	mətor	sitting in the bush of 0104	abs		
+tulil	jkpp	0130	adəpen	underwear	inm		
+tulil	jkpp	0131	kəvər	white people	hum		
+tulil	jkpp	0132	kənunət.	mosquitoes	anm		
+tulil	jkpp	0133	nəvon	the second time	tme		
+tulil	jkpp	0134	ta-və	some of 0104	hum	> 0135, 0138; < 0104	
+tulil	jkpp	0135	kəl	faces of 0134	bdp	M 0134	
+tulil	jkpp	0136	u-vi	this (what happened the first time when they were looking for the place of the monsters)	abs		
+tulil	jkpp	0137	Laika	god	anm		
+tulil	jkpp	0138	iap	people of 0134 who do not believe in God	hum	< 0134	
+tulil	jkpp	0139	nang	tree	loc		
+tulil	jkpp	0140	vətə	meat	inm		
+tulil	jkpp	0141	lukluk	fish shadows	inm		
+tulil	jkpp	0142	a-marek	fish	anm		
+tulil	jkpp	0143	kətiləm	prawn	anm		
+tulil	jkpp	0144	kəgorə	eel	anm		
+tulil	jkpp	0145	kəbəram	big crawling plant	inm		
+tulil	jkpp	0146	iap	the one who is at the back	hum	< 0104	
+tulil	jkpp	0147	ZERO	one who falls	hum	< 0104	
+tulil	jkpp	0148	ioi	bad water	inm		
+tulil	jkpp	0149	iləm	flood	inm		
+tulil	jkpp	0150	muləgəp magə	third time	tme		
+tulil	jkpp	0151	pi	going	abs		
+tulil	jkpp	0152	gət	one of 0104 who could die	hum	< 0104	
+tulil	jkpp	0153	idabi	good spirit	anm		
+tulil	jkpp	0154	idabi	bad spirit	anm		
+tulil	jkpp	0155	lokmət	wet food	inm		
+tulil	jkpp	0156	kabak	basket	inm		
+tulil	jkpp	0157	ləmat	coconut	inm		
+tulil	jkpp	0158	ZERO	they	hum		
+tulil	jkpp	0159	a-ka	iron	inm		
+tulil	jkpp	0160	təmək	ears of 0104	bdp	< 0104	
+tulil	jkpp	0161	gət	one of 0104 who got lifted off	hum	< 0104	
+tulil	jkpp	0162	vul	darkness	abs		
+tulil	lnsl	0001	e-vi	big conch shell	anm	> 0011; < 0006, 0009	
+tulil	lnsl	0002	voki	holes in the stones	loc		
+tulil	lnsl	0003	tivən	stones	inm		
+tulil	lnsl	0004	məlang	lizard	anm	> 0010; < 0006, 0013	
+tulil	lnsl	0005	nə-bət	place where shell is drying	loc		
+tulil	lnsl	0006	ngun	shell and lizard	anm	> 0001, 0004	
+tulil	lnsl	0007	a-torotel	turtle	anm	> 0012; < 0009, 0013	
+tulil	lnsl	0008	viuv	sea	loc		
+tulil	lnsl	0009	ngun	turtle and shell	anm	> 0001, 0007	
+tulil	lnsl	0010	nok	hand of the lizard	bdp	M 0004	
+tulil	lnsl	0011	kiou	mouth of the shell	bdp	M 0001	
+tulil	lnsl	0012	nok	hand of the turtle	bdp	M 0007	
+tulil	lnsl	0013	ZERO	the turtle and the lizard	anm	> 0004, 0007	
+tulil	lrdw	0001	kəvov	dog	anm	> 0004, 0019, 0021; < 0003	
+tulil	lrdw	0002	tudək	wallaby	anm	> 0004, 0016, 0022, 0023; < 0003	
+tulil	lrdw	0003	ip	the dog and the wallaby	anm	> 0001, 0002, 0004	
+tulil	lrdw	0004	mərkəm	four legs that dog and wallaby walked with before	bdp	M 0001, 0002, 0003	
+tulil	lrdw	0005	viuv	sea	loc		
+tulil	lrdw	0006	nanət	swimming (of wallaby)	abs		
+tulil	lrdw	0007	ragum	greens wallaby will carry	inm		
+tulil	lrdw	0008	mətmət	food dog will bring	inm		
+tulil	lrdw	0009	bəro	creek	loc		
+tulil	lrdw	0010	mətmət	food dog and wallaby will have brought	inm		
+tulil	lrdw	0011	vəti	that day when wallaby and dog go to sea	tme		
+tulil	lrdw	0012	rumi	the meeting of the dog and wallaby	abs		
+tulil	lrdw	0013	tuk	road to meeting	loc		
+tulil	lrdw	0014	mətmət	raw food that wallaby usually eats	inm		
+tulil	lrdw	0015	vəret	other side of sea	loc		
+tulil	lrdw	0016	nok	hands of wallaby	bdp	M 0002	
+tulil	lrdw	0017	Vuvu	Vuvu	loc		
+tulil	lrdw	0018	Vuatom	Vuatom	loc		
+tulil	lrdw	0019	kən	neck of dog	bdp	M 0001	
+tulil	lrdw	0020	mədərəp	middle of the sea	loc		
+tulil	lrdw	0021	kiov	mouth of dog	bdp	M 0001	
+tulil	lrdw	0022	katə	legs of wallaby	bdp	M 0002	
+tulil	lrdw	0023	kəbəlu	tail of wallaby	bdp	M 0002	
+tulil	lrdw	0024	maok	time when story happened	tme		
+tulil	sves	0001	a-moli	a man	hum	> 0022, 0025; < 0007, 0009, 0010	
+tulil	sves	0002	dərng	his wife	hum	> 0018, 0028, 0029; < 0007, 0009	
+tulil	sves	0003	bəli	wild pigs in the bush	anm		
+tulil	sves	0004	tipur	woods	loc		
+tulil	sves	0005	gup	hunting	abs		
+tulil	sves	0006	bəli	pigs he has hunted and carries back home	inm		
+tulil	sves	0007	ip	the man and his wife	hum	> 0001, 0002; < 0009	
+tulil	sves	0008	vil	son	hum	> 0012, 0013, 0014, 0015, 0017; < 0009, 0010	
+tulil	sves	0009	ZERO	the man, his wife and their son	hum	> 0001, 0002, 0007, 0008	
+tulil	sves	0010	ip	the man and his son	hum	> 0001, 0008	
+tulil	sves	0011	kəvop	dogs for hunting	anm		
+tulil	sves	0012	lat	head of the son	bdp	M 0008	
+tulil	sves	0013	katə	foot of the son	bdp	M 0008	
+tulil	sves	0014	nok	hand of the son	bdp	M 0008	
+tulil	sves	0015	mədərv	torso of the son	bdp	M 0008	
+tulil	sves	0016	məngəd	home	loc		
+tulil	sves	0017	gati	part of the son's body for wife to eat	bdp	M 0008	
+tulil	sves	0018	imi	wife's eye	bdp	M 0002	
+tulil	sves	0019	kən	voice of the wife	abs		
+tulil	sves	0020	kədikən	anger of the wife	abs		
+tulil	sves	0021	gəri	what wife will do to man	abs		
+tulil	sves	0022	katə	feet of the man	bdp	M 0001	
+tulil	sves	0023	turin	fire	inm		
+tulil	sves	0024	tivən	stone in the fire	inm		
+tulil	sves	0025	kəlom	mouth of the man	bdp	M 0001	
+tulil	sves	0026	doed	tong	inm		
+tulil	sves	0027	vəne	breath of the man	inm		
+tulil	sves	0028	nok	hand of the woman	bdp	M 0002	
+tulil	sves	0029	katə	foot of the woman	bdp	M 0002	
+veraa	anv	0001	ruwa	married couple	hum	> 0002, 0004	
+veraa	anv	0002	ren̄e	woman, wife of 0004	hum	< 0001	
+veraa	anv	0003	ni'i ren̄e	child of 0002 and 0004	hum		
+veraa	anv	0004	'ama	husband of 0002, father of 0003	hum	< 0001	
+veraa	anv	0005	maru	uncle of 0003	hum	< 0015	
+veraa	anv	0006	'ōnō 'ev'ē voruo'	litter place	loc		
+veraa	anv	0007	ren̄e	close friend of 0003	hum	< 0015	
+veraa	anv	0008	voruo'	rubbish	inm		
+veraa	anv	0009	tētē	two babies	hum		
+veraa	anv	0010	kolo	back of 0007	bdp	M 0007	
+veraa	anv	0011	'uvu woqe'enge	tree	inm		
+veraa	anv	0012	bē	water	inm		depicted reality
+veraa	anv	0013	wovinqa	coconut shells	inm		depicted reality
+veraa	anv	0014	dudu n̄ar	nangae leaves	inm		depicted reality
+veraa	anv	0015	dē	0007 and 0005	hum	> 0007, 0005	depicted reality
+veraa	anv	0016	gogov	clothes of 0009	inm		
+veraa	anv	0018	babara	shooting contest	loc		
+veraa	anv	0019	vus	bows	inm		
+veraa	anv	0020	wō'iqē	arrows	inm		
+veraa	anv	0021	dir	'they'; probably the aunt, uncle and the two babies (0005, 0007, 0015, 0009)	hum	> 0005, 0007, 0015, 0009	
+veraa	anv	0022	'ili	chicken egg	inm		
+veraa	anv	0024	raga	everybody there	hum		
+veraa	anv	0025	tōo	chickens hatched from 0022	anm		depicted reality
+veraa	anv	0026	ren̄e	woman looking after the twins (0009)	hum		
+veraa	anv	0027	bēlēl	chicken basket	inm		depicted reality
+veraa	anv	0028	ge	first one of the twins	anm	< 0009	
+veraa	anv	0029	ge	second one of the twins	anm	< 0009	
+veraa	anv	0030	'ili	m̄ala eggs	inm		depicted reality
+veraa	anv	0031	dom	yams	inm		
+veraa	anv	0032	baka	nambanga tree	inm		
+veraa	anv	0033	tōo	first one of the chickens	anm	< 0025	
+veraa	anv	0034	tōo	second one of the chickens	anm	< 0025	
+veraa	anv	0035	gaga	nambanga vine	inm		
+veraa	anv	0036	aval	the other side	loc		
+veraa	anv	0037	qaran̄a	gorge	loc		
+veraa	anv	0038	raga	everybody at home	hum		depicted reality
+veraa	anv	0039	raga	everybody	hum		
+veraa	anv	0040	wōm̄ōm̄ō'	bush	loc		
+veraa	anv	0041	naw	sea	loc		
+veraa	anv	0042	busu	finger of 0029	bdp	M 0029	
+veraa	anv	0043	busu	finger of 0028	bdp	M 0028	
+veraa	anv	0044	busu	fingers of 0028 and 0029	bdp	> 0042, 0043	
+veraa	as1	0001	kaka	story to be told	abs		
+veraa	as1	0002	ruwa	two brothers	hum	> 0017, 0018; < 0009	
+veraa	as1	0003	raw	intra-sex pig the two brothers want	anm		
+veraa	as1	0004	Lēmērig	Lēmērig	loc		
+veraa	as1	0005	Vatov	Vatov	loc		
+veraa	as1	0006	Dōl	Dōl	anm	> 0032; < 0009	
+veraa	as1	0007	ZERO	(shell) money the brothers have	inm		
+veraa	as1	0008	raw	the intra-sex pig the brothers buy	anm		
+veraa	as1	0009	gidō'ōl	Dōl and the two brothers	hum	> 0002, 0006	
+veraa	as1	0010	'ēqē'	garden	loc		
+veraa	as1	0011	qe'e	taro	inm		
+veraa	as1	0012	rōrō'	cabbage	inm		
+veraa	as1	0013	gie	kava	inm		
+veraa	as1	0014	nim̄ē	house	loc		
+veraa	as1	0015	n̄ar	canarium nuts	inm		
+veraa	as1	0016	wig	wig pudding	mss		
+veraa	as1	0017	'uwam̄ēre	firstborn of the two brothers	hum	> 0020, 0021; < 0002	
+veraa	as1	0018	'isim̄ēre	second born of the two brothers	hum	< 0002	
+veraa	as1	0019	wōvēre	coconut fibres	inm		
+veraa	as1	0020	wōbin	penis of 0017	bdp	M 0017	
+veraa	as1	0021	'irbē	body of 0017	bdp	M 0017	
+veraa	as1	0022	nim̄	toilet	loc		
+veraa	as1	0023	ma'av	breakfast	mss		
+veraa	as1	0024	bē	river	loc		
+veraa	as1	0025	so	name of river	abs		
+veraa	as1	0026	vus	bow	inm		
+veraa	as1	0027	wōvinqa	coconut shell	inm		
+veraa	as1	0028	'an̄a	basket	inm		
+veraa	as1	0029	bē	water	mss		
+veraa	as1	0030	mērē	urine	mss		
+veraa	as1	0031	uvu	tree	inm		
+veraa	as1	0032	nōgō	changed face of 0006	bdp	M 0006	
+veraa	as1	0033	raw	intra-sex pig needed for 0029	inm		
+veraa	gabg	0001	buskat	cat	anm	> 0022; < 0003	
+veraa	gabg	0002	gōsuwō	rat	anm	> 0021, 0027, 0030, 0031; < 0003	
+veraa	gabg	0003	duru	the cat and the rat	anm	> 0001, 0002	
+veraa	gabg	0004	vunu	island	loc		
+veraa	gabg	0005	nim̄ē	house	loc		
+veraa	gabg	0006	lo	the seaside	loc		
+veraa	gabg	0007	me'	reef	loc		
+veraa	gabg	0009	naw	saltwater	mss		
+veraa	gabg	0010	vus	bow	inm		
+veraa	gabg	0011	qē	fishing rod	inm		
+veraa	gabg	0012	bēlēl	basket for fish	inm		
+veraa	gabg	0013	n̄ērē'iē	shore	loc		
+veraa	gabg	0014	'ēqē	garden	loc		
+veraa	gabg	0015	mes	fish cat and rat have caught	inm		
+veraa	gabg	0016	wova'al	pawpaws	inm		
+veraa	gabg	0017	'uvu'	pawpaw trees in garden	inm	> 0018	
+veraa	gabg	0018	'uvu'	one of the pawpaw trees	inm	> 0025; < 0017	
+veraa	gabg	0019	wēwē	fruits of 0018	inm	> 0020	
+veraa	gabg	0020	wēwē	only fruit of the pawpaw tree that was ripe	inm	< 0019	
+veraa	gabg	0021	wulen	fingernails of the rat	bdp	M 0002	
+veraa	gabg	0022	wō-wōle	fingernails of the cat	bdp	M 0001	
+veraa	gabg	0023	qe'an	ground under the pawpaw tree (0018)	loc		
+veraa	gabg	0024	aval	other side of the pawpaw tree	loc		
+veraa	gabg	0025	gako	stalk of the pawpaw tree	inm	M 0018	
+veraa	gabg	0026	qoro	hole gnawed by rat into the pawpaw tree	inm		
+veraa	gabg	0027	'aqa	belly of the rat	bdp	M 0002	
+veraa	gabg	0028	m̄ō'	bush	loc		
+veraa	gabg	0029	qaran̄a	hole in the bush	loc		
+veraa	gabg	0030	qi'i	head of the rat	bdp	M 0002	
+veraa	gabg	0031	gōlō	tail of the rat	bdp	M 0002	
+veraa	gaqg	0001	qono	seagull	anm	< 0003	
+veraa	gaqg	0002	gusuwō	rat	anm	< 0003, 0018	
+veraa	gaqg	0003	duruō	seagull and rat	anm	> 0001, 0002	
+veraa	gaqg	0004	qoro	river	loc		
+veraa	gaqg	0005	woqe'enge	tree	loc		
+veraa	gaqg	0006	qoro	hole	loc	M 0010	
+veraa	gaqg	0007	qoro	dry creek	loc		
+veraa	gaqg	0008	wēde	rain	mss		
+veraa	gaqg	0009	bē	water of the river and the rain	mss		
+veraa	gaqg	0010	bē	trunk of the tree with the rat's hole	inm	> 0006	
+veraa	gaqg	0011	lo	seaside	loc		
+veraa	gaqg	0012	vemimie	the deep sea	loc		
+veraa	gaqg	0013	dōdōmia	rat's thoughts	abs		
+veraa	gaqg	0014	sava	something that will help the plan get back to land	abs		
+veraa	gaqg	0015	vunuō	land, shore	loc		
+veraa	gaqg	0016	ZERO	turtle	anm	> 0017, 0038, 0039; < 0018	
+veraa	gaqg	0017	kolo	turtle's back	bdp	M 0016	
+veraa	gaqg	0018	duru	the turtle and the rat	anm	> 0016, 0002	
+veraa	gaqg	0019	n̄erē'iē	the shore where the turtle brings the rat	loc		
+veraa	gaqg	0020	nōn	sand / beach at that shore	loc		
+veraa	gaqg	0021	wōm̄ōm̄ō'	bush	loc		
+veraa	gaqg	0022	qoro	hole for the turtle as a thank you	loc		
+veraa	gaqg	0023	'an̄sar	two humans	hum	> 0024	
+veraa	gaqg	0024	ge'ew'i	one of the two humans	hum	< 0023	
+veraa	gaqg	0025	vunu	the village	loc		
+veraa	gaqg	0026	maranaga	the chief of the village	hum		
+veraa	gaqg	0027	sul	the people of the village	hum		
+veraa	gaqg	0028	revrev	evening	tme		
+veraa	gaqg	0029	nev	fire	mss		
+veraa	gaqg	0030	dōdōmia	plan of the seagull to save turtle	abs		
+veraa	gaqg	0031	masōgi	time when people are in village cooking turtle	tme		
+veraa	gaqg	0032	m̄ēm̄ēlege	things the seagull will wear	inm		
+veraa	gaqg	0033	sere-ge	village square	loc		
+veraa	gaqg	0034	gaga	vine the turtle is tied up with	inm		
+veraa	gaqg	0035	rōrō	news that a turtle dances in the village square	abs		
+veraa	gaqg	0036	ZERO	the dance of the turtle	abs		
+veraa	gaqg	0037	'ekē	place where fire is lit	loc		
+veraa	gaqg	0038	'aqa	belly of the turtle	bdp	M 0016	
+veraa	gaqg	0039	bini	hands of the turtle	bdp	M 0016	
+veraa	gaqg	0040	mē'ēsala	path from village to sea	loc		
+veraa	gaqg	0041	di	message seagull wants to convey by dancing	abs		
+veraa	gaqg	0042	masōgi	time when seagull stops dancing	tme		
+veraa	hhak	0001	'ama'	devouring devil	hum		
+veraa	hhak	0002	'an̄sara	people	hum		
+veraa	hhak	0003	Vunu Lava	Vanua Lava	loc		
+veraa	hhak	0004	'an̄sara	people	hum		
+veraa	hhak	0005	mē'ē	place of the sunrise	loc		
+veraa	hhak	0006	'ōnō	place of sunset	loc		
+veraa	hhak	0007	vunu	village	loc		
+veraa	hhak	0008	dir	they	hum		
+veraa	hhak	0009	tōo	fowl	anm		
+veraa	hhak	0010	qō	pig	anm		
+veraa	hhak	0011	buluk	cow	anm		
+veraa	hhak	0012	vunu	village	loc		
+veraa	hhak	0013	sul	people of the village	hum		
+veraa	hhak	0014	vunuō	village	loc		
+veraa	hhak	0015	ren̄e	woman	hum		
+veraa	hhak	0016	ruwa	two people, siblings	hum		
+veraa	hhak	0017	'am̄an	man	hum	< 0016	
+veraa	hhak	0018	nik	you two	hum	> 0016	depicted reality
+veraa	hhak	0019	nak	canoe	inm		depicted reality
+veraa	hhak	0020	ni-ni'i-k	children of 0017	hum		depicted reality
+veraa	hhak	0021	'aqa-m	big belly of 0015	hum	M 0015	depicted reality
+veraa	hhak	0022	kamam	us	hum	> 0016, 0020	depicted reality
+veraa	hhak	0023	'aklē-gi	some more people	hum		
+veraa	hhak	0024	nak	canoe	inm		depicted reality
+veraa	hhak	0025	ni'i	small children of 0023	hum		depicted reality
+veraa	hhak	0026	qoro	cave	loc		
+veraa	hhak	0027	m̄ērm̄ēre	twins	hum		
+veraa	hhak	0028	zero	twins and mother	hum	> 0015, 0027	
+veraa	hhak	0029	go	food	inm		
+veraa	hhak	0030	'ēqē	taro garden	loc		
+veraa	hhak	0031	mēdēr	rocks to block the cave	inm		
+veraa	hhak	0032	mēdēr	one rock to block the cave	inm		
+veraa	hhak	0033	mēdēr	another rock	inm		
+veraa	hhak	0034	'owo	brother	hum		depicted reality
+veraa	hhak	0035	kamak	0034 and 0015	hum		depicted reality
+veraa	hhak	0036	vus	bow	inm		depicted reality
+veraa	hhak	0037	mes	fish	anm		
+veraa	hhak	0038	nak	canoe	inm		depicted reality
+veraa	hhak	0039	ge	one of the twins	hum	< 0027	
+veraa	hhak	0040	so-gi	name of 0039	inm		
+veraa	hhak	0041	ge	other one of the twins	hum	< 0027	
+veraa	hhak	0042	so-gi	name of 0041	inm		
+veraa	hhak	0044	wo'iqē	arrows	inm		
+veraa	hhak	0045	lo	seaside	loc		
+veraa	hhak	0046	lama	open sea	loc		
+veraa	hhak	0047	n̄ērē'iē	coast	loc		
+veraa	hhak	0048	qorot	noise	inm		depicted reality
+veraa	hhak	0049	nes	song	inm		depicted reality
+veraa	hhak	0050	lan̄	wind	inm		depicted reality
+veraa	hhak	0051	ner	seaoak	inm		depicted reality
+veraa	hhak	0052	mēdēr	rock	inm		
+veraa	hhak	0053	mē'ēm̄ē	door of the cave	inm		
+veraa	hhak	0054	mēdēr	rock	inm		
+veraa	hhak	0055	mēdēr	rock	inm		
+veraa	hhak	0056	es	life of the devil	inm		depicted reality
+veraa	hhak	0057	vōwal	one shot	inm		
+veraa	hhak	0059	vus	bow	inm		
+veraa	hhak	0058	vōwal	one shot	inm		
+veraa	hhak	0060	ma'ava	morning	inm		
+veraa	hhak	0061	qi'i	head of the devil	bdp	M 0001	
+veraa	hhak	0062	nev	fire	inm		
+veraa	hhak	0063	'irbē	body of the devil	bdp	M 0001	
+veraa	hhak	0064	gengen	food	inm		
+veraa	hhak	0065	nos	smoke	inm		
+veraa	hhak	0066	tōo	fowl	anm		
+veraa	hhak	0067	qō	pig	anm		
+veraa	hhak	0068	bigbig	meat	inm		
+veraa	hhak	0069	gengen	food	inm		
+veraa	hhak	0070	maranaga	chief	hum		
+veraa	hhak	0071	nak	canoe	inm		
+veraa	hhak	0072	qōtō	basked	inm		
+veraa	hhak	0074	mē'ērsa	harbour	loc		
+veraa	hhak	0075	nak	canoe	inm		
+veraa	hhak	0076	nōn	beach	loc		
+veraa	hhak	0077	nak	canoe	inm		
+veraa	isam	0001	Lemerig	Lemerig	loc		
+veraa	isam	0002	'an̄sar	people of Lemerig	hum	> 0009, 0010	
+veraa	isam	0003	me'	reef	loc	> 0017, 0024, 0037, 0038, 0039; < 0018	
+veraa	isam	0004	vo-von̄odo	sea harvest	inm		
+veraa	isam	0005	mes	fish	inm		
+veraa	isam	0006	goto	hermit crab	inm		
+veraa	isam	0007	wōkalkal	crab	inm		
+veraa	isam	0008	wōsēs	mussel	inm		
+veraa	isam	0009	ruwa	a couple	hum	< 0002	
+veraa	isam	0010	'an̄sara	one person	hum	< 0002, 0018	
+veraa	isam	0011	m̄o-gi	house of 0010	loc		
+veraa	isam	0012	'ēnēs	middle of the night	tme		
+veraa	isam	0013	nev	fire	mss		
+veraa	isam	0014	'ekē	place in the deep sea	loc		
+veraa	isam	0015	masō-gi	the time 0010 notices the reef moving	tme		
+veraa	isam	0016	naw	saltwater / the sea	mss		
+veraa	isam	0017	kolo	back of the reef	bdp	M 0003	
+veraa	isam	0018	gēdu	the reef and 0010	anm	> 0003, 0010	
+veraa	isam	0019	vunuō	land (Torres)	loc		
+veraa	isam	0020	dir	they (generic)	hum		
+veraa	isam	0021	maran	daylight	tme		
+veraa	isam	0022	mē'ērsa	harbour of Hiw	loc		
+veraa	isam	0023	vunuō	Hiw island	loc		
+veraa	isam	0024	'an̄sara	person / spirit in the reef	hum	< 0003	
+veraa	isam	0025	qōn̄	amount of time to be spent on Hiw island	tme		
+veraa	isam	0026	kēnē	inland (Hiw island)	loc		
+veraa	isam	0027	'ekē	dry place for 0010 to jump onto	loc		
+veraa	isam	0028	gengen	food that reef wants 0010 to eat	inm		
+veraa	isam	0029	'ōnō	place to sleep for 0010 (to be found)	loc		
+veraa	isam	0030	masō-gi	the time when reef calls 0010 to return home	tme		
+veraa	isam	0031	qiri	today	tme		
+veraa	isam	0032	qōrqōr	dream 0010 has (that the reef calls him to go back)	abs		
+veraa	isam	0033	'ono	place where reef lied	loc		
+veraa	isam	0034	qōn̄	two nights they need to get to the harbour	tme		
+veraa	isam	0035	mē'ērsa	harbour of Lemerig	loc		
+veraa	isam	0036	masō-gi	time when they get into the harbour	tme		
+veraa	isam	0037	vō-ruō	two pieces of the reef	anm	> 0038, 0039; M 0003	
+veraa	isam	0038	kum̄	the bigger part of the reef	anm	M 0037, 0003	
+veraa	isam	0039	menre	other piece of the reef	anm	M 0037, 0003	
+veraa	isam	0040	qōn̄	fifth night 0010 has been missing	tme		
+veraa	isam	0041	ma'ava	the morning of the fifth night	tme		
+veraa	isam	0042	qiri	the day of the fifth night	tme		
+veraa	isam	0043	masō-gi	time for the dances on the fifth night	tme		
+veraa	isam	0044	lak-laka	the dances on the fifth night	abs		
+veraa	isam	0045	Vunu Lava	Vanua Lava	loc		
+veraa	isam	0046	tō	fowl	anm		
+veraa	isam	0047	ekēnē	the place where the reef gets stuck permanently	loc		
+veraa	isam	0048	dudu	leaf tree	inm		
+veraa	isam	0049	nō	clothes made out of leaf tree	inm		
+veraa	isam	0050	revrev	afternoon	tme		
+veraa	isam	0051	resdōn̄ar	special kind of dance, the devil dance	abs		
+veraa	isam	0052	lak-laka	first dance	abs		
+veraa	isam	0053	vag-ruō	second dance	abs		
+veraa	isam	0054	vag-'ōl	third dance	abs		
+veraa	isam	0055	gengen sir	food for 0010	inm		
+veraa	isam	0056	kaka	story of how 0010 went to Hiw island with the reef	abs		
+veraa	isam	0057	kele	another fifth night	tme		
+veraa	isam	0058	sō-sōgō	the line of 0010	abs		
+veraa	iswm	0001	Wowōt	Wowōt	hum	> 0046, 0056, 0070; < 0004, 0133	
+veraa	iswm	0002	m̄eter	m̄eter	hum	> 0068, 0069; < 0004	
+veraa	iswm	0003	vono	home	loc		
+veraa	iswm	0004	-ruō	0001 and 0002	hum	> 0001, 0002	
+veraa	iswm	0005	dir	they (generic)	hum	> 0084, 0086	
+veraa	iswm	0006	vono	village of 0001 (Nos)	loc		
+veraa	iswm	0007	vono	village of 0002 (n̄erelan̄tir)	loc		
+veraa	iswm	0008	ruwa	a couple	hum	> 0010, 0015; < 0020, 0096, 0138	
+veraa	iswm	0010	'ama	father of the baby	hum	< 0008, 0020, 0138	
+veraa	iswm	0011	m̄ōgm̄ōglēge	things the father blessed the baby with	abs	> 0012, 0013	
+veraa	iswm	0012	man̄ra	money	mss	< 0011	
+veraa	iswm	0013	qō	pigs	anm	< 0011	
+veraa	iswm	0014	so	name of the baby	abs		
+veraa	iswm	0015	vēvē-n	mother of 0001	hum	< 0008, 0020, 0138	
+veraa	iswm	0016	dōdōmia	plan of parents for 0001 to be blessed	abs		
+veraa	iswm	0017	nim̄ē	house of 0008	loc		
+veraa	iswm	0018	ren̄e	women (generic)	hum		
+veraa	iswm	0019	sara	village square	loc		
+veraa	iswm	0020	dir	they	hum	> 0008, 0010, 0015	
+veraa	iswm	0021	'uwō	hill where 0020 stay	loc		
+veraa	iswm	0022	Laln̄e'ak	Laln̄e'ak	loc		
+veraa	iswm	0024	m̄ērm̄ēre	kids playing on the village square	hum	< 0031	
+veraa	iswm	0025	vēvē	mothers of the kids playing on the village square	hum	< 0027, 0031	
+veraa	iswm	0026	'ama	fathers of the kids playing on the village square	hum	< 0027, 0031	
+veraa	iswm	0027	lu-luwo	adults (mothers and fathers)	hum	> 0025, 0026; < 0031	
+veraa	iswm	0028	ren̄e	woman that stays downwards of the hill	hum		
+veraa	iswm	0029	bur	lamp downhill	inm		
+veraa	iswm	0030	bur	lamps used in village of 0001 (Nos)	inm		
+veraa	iswm	0031	-de	our' (adults and their kids)	hum	> 0024, 0025, 0026, 0027	
+veraa	iswm	0032	dō	canarium leaves	inm	> 0033	
+veraa	iswm	0033	'ir	base of canarium leaf	inm	< 0032	
+veraa	iswm	0034	'in̄i	juice to make lamps	mss		
+veraa	iswm	0035	'ama	father of 0002	hum	<0037	
+veraa	iswm	0036	vēvē	mother of 0002	hum	< 0037	
+veraa	iswm	0037	duru	mother and father	hum	> 0035, 0036	
+veraa	iswm	0038	nim̄ē	household of 0002	loc		
+veraa	iswm	0039	vo-vo'	weaving	abs		
+veraa	iswm	0040	bolo	valuable things in terms of money	abs		
+veraa	iswm	0041	bolo	other valuable things	abs		
+veraa	iswm	0042	lum-lumgav	all the young men	hum	> 0043, 0064, 0065	
+veraa	iswm	0043	'aklē	some of the young men	hum	< 0042	
+veraa	iswm	0044	vulō	moon	inm		
+veraa	iswm	0045	riar	bow and arrow	inm		
+veraa	iswm	0046	bini	arm / hand of 0001	bdp	M 0001	
+veraa	iswm	0047	bē	river	loc		
+veraa	iswm	0048	vu'	tree	inm		
+veraa	iswm	0049	Ban̄lav	Ban̄lav	loc		
+veraa	iswm	0050	Laln̄ē'ak	Laln̄ē'ak	loc		
+veraa	iswm	0051	Qugemel	Qugemel	loc		
+veraa	iswm	0052	Mamles	Mamles	loc		
+veraa	iswm	0053	Kalon	Kalon	loc		
+veraa	iswm	0054	Qesōw	Qesōw	loc		
+veraa	iswm	0055	bē	river	loc		
+veraa	iswm	0056	'irbē	body of 0001	bdp	< 0001, 0114	
+veraa	iswm	0057	mesgi'e	sweat	inm		
+veraa	iswm	0058	n̄ērē	shore (of the river?)	loc		
+veraa	iswm	0059	ne'	reef	loc		
+veraa	iswm	0060	n̄ērē	shore of 0061	loc		
+veraa	iswm	0062	ve'	stones on the ground	inm		
+veraa	iswm	0063	mē'ēsal	path	loc		
+veraa	iswm	0064	'aklē	some of the young men	hum	< 0042	
+veraa	iswm	0065	'aklē	some of the young men	hum	< 0042	
+veraa	iswm	0066	'uvu	a stone	inm		
+veraa	iswm	0067	mē'ēm̄ē	door of 0002	inm		
+veraa	iswm	0068	'irbē	body of 0002	bdp	M 0002	
+veraa	iswm	0069	nōgō	face of 0002	bdp	M 0002	
+veraa	iswm	0070	nōgō-n	face of 0001	bdp	M 0001	
+veraa	iswm	0072	kakaka	conversation between 0001 and 0002	abs		
+veraa	iswm	0073	dōdōmia	plan of 0064	abs		
+veraa	iswm	0074	qiri	today (the day 0001 should be killed)	tme		
+veraa	iswm	0075	momse	breath of 0001	bdp		
+veraa	iswm	0076	n̄ērē	shore of 0077	loc		
+veraa	iswm	0078	qa-qan̄	wall	inm		
+veraa	iswm	0079	qoro	hole	inm		
+veraa	iswm	0080	ma'avan	morning after 0001's death	tme		
+veraa	iswm	0081	nim̄ē	houses in the village of Nos (0006)	inm		
+veraa	iswm	0082	kaka	story of 0002, 0008 tell 0001	abs		
+veraa	iswm	0083	'ubu-n	grandfather of 0001	hum	> 0089; < 0114, 0133	
+veraa	iswm	0084	bini	arms of people	bdp	M 0005	
+veraa	iswm	0085	sē	anything / anyone lost	abs		
+veraa	iswm	0086	sē	someone coming (?)	abs	> 0088; < 0005	
+veraa	iswm	0087	dōdōmia	tradition of handrubbing when someone / sth is lost	abs		
+veraa	iswm	0088	bini	hand of 0086	bdp	M 0086	
+veraa	iswm	0089	bini	hand of grandfather	bdp	M 0083	
+veraa	iswm	0090	n̄ē-n̄ērē-gi	all shores of Vanua Lava	loc		
+veraa	iswm	0091	Lates	Lates	loc		
+veraa	iswm	0092	Mē'ēsarig	Mē'ēsarig	loc		
+veraa	iswm	0094	vu'	spirit in grandfather's hands	anm		
+veraa	iswm	0095	sul	everybody	hum	< 0096	
+veraa	iswm	0096	gidē	we (the people and 0008)	hum	> 0008, 0095, 0101	
+veraa	iswm	0097	gēnē	pig 0096 take	anm		
+veraa	iswm	0098	gēnē	shell money 0096 take	inm	< 0099	
+veraa	iswm	0099	ZERO	0097 and 0098	inm	> 0097, 0098	
+veraa	iswm	0100	Bēgorwa'ag	Bēgorwa'ag	loc		
+veraa	iswm	0101	maranag	a chief	hum	< 0096	
+veraa	iswm	0102	wisma'	k.o. plant, sign of peace	inm		
+veraa	iswm	0103	raga	people of 0093	hum	> 0104	
+veraa	iswm	0104	maranaga	chief of 0103	hum	< 0103	
+veraa	iswm	0105	mē'ēsala	way to the body of 0001	abs		
+veraa	iswm	0106	'ekē	place where 0001 was killed, place of Gek	loc		
+veraa	iswm	0107	qōn̄	four nights (time passed with 0001's body in the hole)	tme		
+veraa	iswm	0108	du vog	leafs used to wrap 0001	inm		
+veraa	iswm	0109	lan̄	flies	anm		
+veraa	iswm	0110	woqe'enge	piece of wood to carry 0001	inm		
+veraa	iswm	0111	gamal	grandfather's gamal (men's house)	loc		
+veraa	iswm	0112	sava	the instructions of the grandfather as to where to put 0001	abs		
+veraa	iswm	0113	sē	anybody who comes and disturbs grandfather	hum		
+veraa	iswm	0114	kamadu	grandfather and 0001's body	hum	> 0083, 0056	possibly also includes 0001; see connection to 0113
+veraa	iswm	0115	qōn̄	four nights (time grandfather will stay in gamal)	tme	> 0123	
+veraa	iswm	0116	du m̄ēl	m̄ēl leaf	inm		
+veraa	iswm	0117	seg	seg leaf	inm		
+veraa	iswm	0118	man-mana	magic power of song and leaves (?)	abs		
+veraa	iswm	0119	nes	song grandfather sings that has magic powers	abs		
+veraa	iswm	0120	'an̄sar	all the spirits of all the hills of the entire area	anm		
+veraa	iswm	0121	n̄ē-n̄ērē	all the hills	loc		
+veraa	iswm	0122	es	the life (force) of 0001	abs		
+veraa	iswm	0123	qōn̄	the fourth night	tme	< 0115	
+veraa	iswm	0124	di	the act of coming alive	abs		
+veraa	iswm	0125	revrev	evening	tme		
+veraa	iswm	0126	di	morning	tme		
+veraa	iswm	0127	gengen	food	mss		
+veraa	iswm	0128	qōn̄	fifth night	tme		
+veraa	iswm	0129	bē	water	mss		
+veraa	iswm	0130	di	the staying in the room	abs		
+veraa	iswm	0131	qōn̄	time of 0130 (ten nights)	tme		
+veraa	iswm	0132	miē	outside of 0111	loc		
+veraa	iswm	0133	duru	grandfather and 0001	hum	> 0083, 0001	see connection to 0114
+veraa	iswm	0134	gengen	only roasted food	mss		
+veraa	iswm	0135	gargar	strict diet for 0133	abs		
+veraa	iswm	0136	qōn̄	time 0001 still stays in gamal (10 nights)	tme		
+veraa	iswm	0137	dōdōmia	plan 0001 has to follow when going out	abs		
+veraa	iswm	0138	dir	the people who will do a dance for 0001 to follow	hum	> 0008, 0010, 0015, 0148	
+veraa	iswm	0139	lak-laka	dance the poeple will do; plan for 0146	abs		depicted reality
+veraa	iswm	0140	rōrō	message that 0001 is alive	abs		
+veraa	iswm	0141	qōn̄	twelfth day	tme		
+veraa	iswm	0142	n̄ērē	point of 0006	loc		
+veraa	iswm	0143	Bēgōrwa'ag	Bēgōrwa'ag	loc		
+veraa	iswm	0144	lōo	sun	inm		
+veraa	iswm	0145	lak-laka	general dancing	abs		
+veraa	iswm	0146	lak-laka	actual dance 0138 do; is realisation of 0139	abs		
+veraa	iswm	0147	raga	people in general	hum		
+veraa	iswm	0148	ruwa	two people	hum	< 0138	
+veraa	iswm	0149	'ōsōm̄	ashes	mss		
+veraa	iswm	0150	-gi	the realising of 0002 who 0001 is	abs		
+veraa	iswm	0151	'ekē	white spot in 0001's face	loc		
+veraa	iswm	0152	sē	older men	hum		
+veraa	iswm	0153	sara	village square	loc		
+veraa	iswm	0154	'e	many years 0004 lived	tme		
+veraa	jjq	0001	Qo'	Qo', brother of 0002	hum		
+veraa	jjq	0002	'isi	brothers of 0001	hum		
+veraa	jjq	0003	dir	Qo' and his brothers	hum	> 0001, 0002	
+veraa	jjq	0004	Rev	Rev	loc		
+veraa	jjq	0005	nik	you	hum		depicted reality
+veraa	jjq	0006	skul	school	inm		
+veraa	jjq	0007	so	name	inm		
+veraa	jjq	0009	naka	canoes of 0003	inm		
+veraa	jjq	0008	wōm̄ōm̄ō'	bush	loc		
+veraa	jjq	0010	Serewan	Serewan	loc		
+veraa	jjq	0011	mē'ērsa	harbour of 0004	loc		
+veraa	jjq	0012	Narwē	Narwē	loc		
+veraa	jjq	0013	ge	one of the brothers	hum	< 0002	
+veraa	jjq	0015	nak	canoe of 0013	inm		
+veraa	jjq	0017	naw	saltwater	inm		
+veraa	jjq	0014	ge	another of the brothers	hum	< 0002	
+veraa	jjq	0016	ko	down to the sea	inm		
+veraa	jjq	0018	naka	canoe	inm		
+veraa	jjq	0019	nanara	nanara tree	inm		
+veraa	jjq	0020	wōmarawraw	spider	anm		
+veraa	jjq	0021	kōlōv	wood chip	inm		
+veraa	jjq	0022	'ōnō	location of 0018	loc		
+veraa	jjq	0023	menren	piece of wood chip	inm	M 0021	
+veraa	jjq	0024	im̄ē	house of 0001	loc		
+veraa	jjq	0026	duru	0020 and 0001	hum	> 0020, 0001	
+veraa	jjq	0027	qōn̄	night	inm		
+veraa	jjq	0028	wēde	rain	inm		
+veraa	jjq	0029	gaga	vines	inm		
+veraa	jjq	0030	wo'iw'iwēm	connecting woods	inm		
+veraa	jjq	0031	sama	outrigger	inm		
+veraa	jjq	0032	qaran̄	conjuring hole	loc		
+veraa	jjq	0033	n̄ērē	shoreline	loc		
+veraa	jjq	0034	'aklē	some of the brothers	hum	< 0002	
+veraa	jjq	0035	'aklē	some of the brothers	hum	< 0002	
+veraa	jjq	0036	ma'a	garden	loc		
+veraa	jjq	0037	n̄ēn̄ērē	store / shore	loc		
+veraa	jjq	0038	gunu	wife of 0001	hum		
+veraa	jjq	0039	tēktēk	talk of brothers to Qo'	inm		
+veraa	jjq	0040	daraga	wild nutmeg trees	inm		
+veraa	jjq	0041	daraga	the wildest nutmeg tree	inm		
+veraa	jjq	0042	n̄ōl	top of 0041	inm	M 0041	
+veraa	jjq	0043	ga	vine to catch birds	inm		
+veraa	jjq	0044	nes	song	inm		
+veraa	jjq	0045	Lōkōno	Lōkōno	loc		
+veraa	jjq	0046	dir	0002 and 0038	hum	> 0002, 0038	
+veraa	jjq	0047	Sisiol	Sisiol	loc		
+veraa	jjq	0048	so	name	inm		
+veraa	jjq	0049	Tatgan	Tatgan	loc		
+veraa	jjq	0052	di	the plain	loc		
+veraa	jjq	0054	dir	they	hum		
+veraa	jjq	0055	mē'ērsa	harbour of 0049	loc		
+veraa	jjq	0057	'irbē	body of 0040	bdp	M 0040	
+veraa	jjq	0058	bini	hands of 0001	bdp	M 0001	
+veraa	jjq	0059	ga	spider web	inm		
+veraa	jjq	0060	qe'an	ground	loc		
+veraa	jjq	0061	vēvē	mother	hum		
+veraa	jjq	0063	dir	they (wife of 0001 and his brothers)	hum	> 0062, 0002, 0001	depicted reality
+veraa	jjq	0064	wōwen̄	basket	inm		depicted reality
+veraa	jjq	0065	va'al	banana	inm		depicted reality
+veraa	jjq	0066	du	0061 and 0001	hum	> 0061, 0001	depicted reality
+veraa	jjq	0067	naw	waves	inm		depicted reality
+veraa	jjq	0068	so	name of mother	inm		
+veraa	jjq	0069	vin	banana skins	inm	M 0065	
+veraa	jjq	0070	vin	another piece of banana skin	inm	M 0065	
+veraa	jjq	0071	vin	another piece of banana skin	inm	M 0065	
+veraa	jjq	0072	mē'ērsa	harbour of 0045	loc	M 0045	
+veraa	jjq	0074	dir	0001, 0002, and 0038	hum	> 0001, 0002, 0038	
+veraa	jjq	0073	nērē	shoreline	loc		
+veraa	jjq	0075	so	name of the place where brothers are trapped	inm		
+veraa	jjq	0076	'ekē	place where brothers are trapped	loc		
+veraa	jjq	0077	Tumeren	Tumeren, husband of 0078	hum		
+veraa	jjq	0078	gunu	wife of Tumeren (0077)	hum		
+veraa	jjq	0079	qō	pigs	anm		
+veraa	jjq	0080	gamal	men's house	loc		
+veraa	jjq	0081	Vunu Lava	Vanua Lava	loc		depicted reality
+veraa	jjq	0082	wōlil	albino?	hum		
+veraa	jjq	0083	so	name of W.	inm		
+veraa	jjq	0085	bo	sleeping thing	inm		depicted reality
+veraa	jjq	0086	qan̄ris	stone oven	loc		
+veraa	jjq	0087	gamal	other men's house	loc		
+veraa	jjq	0088	tēktēk	talking of Qo'	inm		
+veraa	jjq	0089	tēktēk	talking of Qo'	inm		
+veraa	jjq	0090	woruqruqō	struts of the roofing	loc		
+veraa	jjq	0091	wio	bamboo	inm		
+veraa	jjq	0092	lōlō	inside	loc		
+veraa	jjq	0093	lōlō	inside the house	loc		
+veraa	jjq	0094	qōn̄	two nights	inm		
+veraa	jjq	0095	qōn̄	the third day	inm		
+veraa	jjq	0096	dōdōmia	Qo's plan	inm		
+veraa	jjq	0097	wōqa'ag	post	loc		
+veraa	jjq	0098	dōdōmia	thoughts of the devil	inm		
+veraa	jjq	0099	wō'il	tree	loc		
+veraa	jjq	0100	qē	end of the house	loc		
+veraa	jjq	0101	woqe'enge	two trees Qo' plants at the shore	inm		
+veraa	jjq	0102	varvara	a varvara tree	inm	< 0101	
+veraa	jjq	0103	ner	seaoak	inm	< 0101	
+veraa	jjq	0104	m̄ōm̄ōglēge	Tomeren's things	inm		
+veraa	jjq	0105	'ibiē	platter	inm		
+veraa	jjq	0106	qō	a pig	anm		
+veraa	jjq	0107	'ibiē	another platter	inm		
+veraa	jjq	0108	qēqē	last fight	inm		
+veraa	jjq	0109	tēktēk	speaking of 0077	inm		
+veraa	jjq	0110	qan̄	side of the seaoak	inm	M 0103	
+veraa	jjq	0111	magala	ants	anm		
+veraa	jjq	0112	qe'an	ground	loc		
+veraa	jjq	0113	magala	fire ants	anm		
+veraa	jjq	0114	'isi	first brothers	hum	< 0002	
+veraa	jjq	0115	qe'an	ground	inm		
+veraa	jjq	0116	n̄ōl	top of the seaoak	inm	M 0103	
+veraa	jjq	0025	qēsēkēr	club	inm		
+veraa	jjq	0117	gidē	we	hum	> 0077, 0074	
+veraa	jjq	0118	duru	0001 and 0077	hum	> 0001, 0077	
+veraa	jjq	0119	-maduō	0001 and 0038	hum	> 0001, 0038	
+veraa	mvbw	0001	ruwa	a couple	hum	> 0002, 0003	
+veraa	mvbw	0002	ren̄e	the woman	hum	< 0001, 0032, 0035	
+veraa	mvbw	0003	'am̄an	the man	hum	< 0001, 0014	
+veraa	mvbw	0004	vul	the ninth month	tme		
+veraa	mvbw	0005	tētē	infant the woman gives birth to (Wedin̄gōr)	hum	< 0008, 0014, 0015, 0032	
+veraa	mvbw	0006	'e	two years	tme		
+veraa	mvbw	0007	ni'i	second child to be born (Bōar)	hum	< 0008, 0014, 0015, 0032	
+veraa	mvbw	0008	duruō	the two brothers	hum	> 0007, 0005; < 0014, 0015, 0032	
+veraa	mvbw	0009	so	name of 0005 (Wedin̄gōr)	abs	< 0031	
+veraa	mvbw	0010	so	name of 0007 (Bōar)	abs	< 0031	
+veraa	mvbw	0011	ren̄e	new good woman 0002 believes could come	hum		
+veraa	mvbw	0012	tēktēk	the speech of 0002	abs		
+veraa	mvbw	0013	ren̄e	the new woman 0003 marries	hum	> 0041, 0042, 0045, 0047, 0048; < 0014, 0015	
+veraa	mvbw	0014	dirē	the new woman, the father and the two boys	hum	> 0013, 0003, 0005, 0007, 0008	
+veraa	mvbw	0015	dir'ōl	the new woman and the two brothers	hum	> 0013, 0005, 0007, 0008	
+veraa	mvbw	0016	gamal	nagamal	loc		
+veraa	mvbw	0017	'ēqē'	taro garden	loc		
+veraa	mvbw	0018	gengen	food the new woman makes for the two brothers	mss		
+veraa	mvbw	0019	'i-'in̄i	juices the new woman smears on brothers	mss		
+veraa	mvbw	0020	milin̄sal	hunger	abs		
+veraa	mvbw	0021	'uvu	tree in the bush the two brothers reach	loc		
+veraa	mvbw	0022	wēwē	fruit in the tree	inm		
+veraa	mvbw	0023	qe'an	ground under the tree	loc		
+veraa	mvbw	0024	nes	song the firstborn wants to sing from the tree to call his mother	abs		
+veraa	mvbw	0025	lan̄	wind	inm		
+veraa	mvbw	0026	Wērēsurō	Wērēsurō	loc		
+veraa	mvbw	0027	vuvulu	dead friends of 0002	anm	< 0035	
+veraa	mvbw	0028	men	birds	anm		
+veraa	mvbw	0029	neln̄o	voice of the birds	inm		
+veraa	mvbw	0030	neln̄o-n	voice of 0005	inm		
+veraa	mvbw	0031	so	names of 0005 and 0007	abs	> 0009, 0010	
+veraa	mvbw	0032	gidē	we (the mother and her two boys)	hum	> 0002, 0005, 0007, 0008	
+veraa	mvbw	0033	gengen	food 0002 gives to 0008	mss		
+veraa	mvbw	0034	bē	water 0002 gives to 0008	mss		
+veraa	mvbw	0035	kamak	we (the mother and her dead friends)	hum	> 0002, 0027, 0039	
+veraa	mvbw	0036	din	room of 0008	loc		
+veraa	mvbw	0037	sava	something that could happen at night according to 0002	abs		
+veraa	mvbw	0038	din	room of new mother and father	loc		
+veraa	mvbw	0039	vō-wal	one spirit of the dead (after another)	anm	< 0035	
+veraa	mvbw	0040	mē'ēm̄ē	door of 0038	loc		
+veraa	mvbw	0041	'irbē	body of 0013	bdp	M 0013	
+veraa	mvbw	0042	dara	blood of 0013	bdp	M 0013	
+veraa	mvbw	0043	nim̄	house	loc		
+veraa	mvbw	0044	mē'ēm̄ē	door of the house	loc		
+veraa	mvbw	0045	qi'i	head of 0013	bdp	> 0047, 0048; M 0013	
+veraa	mvbw	0046	m̄ōm̄ōlēge	everything happening at night	abs		
+veraa	mvbw	0047	vili-ge	hair of 0013	bdp	M 0013, 0045	
+veraa	mvbw	0048	vin'i-ge	skin of 0013	bdp	M 0013, 0045	
+veraa	mvbw	0049	gunu	new third spouse 0003 is not allowed to take	hum		
+veraa	pala	0001	ruwa	a married couple	hum		
+veraa	pala	0002	ren̄e	woman	hum	< 0001	
+veraa	pala	0003	ni'i	child of 0001	hum		
+veraa	pala	0004	ni'i	child of 0001	hum		
+veraa	pala	0005	zero	the two children	hum	> 0003, 0004	
+veraa	pala	0006	maru	uncle of 0005	hum		
+veraa	pala	0007	ni'i	child of uncle	hum		depicted reality
+veraa	pala	0008	'ama'	devil	hum		depicted reality
+veraa	pala	0009	they	unclear	hum		
+veraa	pala	0010	lavet	feast	inm		
+veraa	pala	0011	'ama	father of 0003, 0004, 0005	hum	< 0001	
+veraa	pala	0012	vunu	village	loc		depicted reality
+veraa	pala	0013	tēktēk	talk of uncle	inm		depicted reality
+veraa	pala	0014	lak-laka	dances	inm		
+veraa	pala	0015	wōm̄ōm̄o	bush	loc		
+veraa	pala	0016	lumgav	young man	hum		
+veraa	pala	0017	vava viē	underneath a taro tree	loc		
+veraa	pala	0018	ge	one	hum		
+veraa	pala	0019	ge	one	hum		
+veraa	pala	0020	lak-laka	dance	inm		
+veraa	pala	0021	vono	home	loc		depicted reality
+veraa	pala	0022	dōl	the three of them (0016, 0003, 0004)	hum		depicted reality
+veraa	pala	0023	m̄ōglēge	stuff of 0003 and 0004	inm		
+veraa	pala	0024	lo	seaside	loc		
+veraa	pala	0025	nak	canoe	inm		
+veraa	pala	0026	kumruō	the two of them (0016, 0003)	hum		depicted reality
+veraa	pala	0027	qi'i	bow of the canoe	loc		
+veraa	pala	0028	vene	middle of the canoe	loc		
+veraa	pala	0029	n̄ērsi-gi	point	loc		
+veraa	pala	0030	n̄ērsi-gi	ten points	loc		
+veraa	pala	0031	kolo	back of the devil	bdp	M 0016	depicted reality
+veraa	pala	0032	lie	cave	loc		
+veraa	pala	0033	lie	another cave	loc		
+veraa	pala	0034	lie	cave	loc		
+veraa	pala	0035	san̄wul	the tenth cave	loc		
+veraa	pala	0036	'ōnō	sleeping place	loc		
+veraa	pala	0037	dōdōmia	thought	inm		
+veraa	pala	0038	deln̄o	ears of the devil	bdp	M 0016, 0008	
+veraa	pala	0039	m̄ōglēge	things of the sisters	inm		depicted reality
+veraa	pala	0040	m̄ōglēge	stuff of one of the sisters	inm		
+veraa	pala	0041	lie	cave	inm		
+veraa	pala	0042	'uwō	horn	inm		
+veraa	pala	0043	dudu	panundas leaves	inm		
+veraa	pala	0044	n̄ērsi-gi	point	loc		
+veraa	pala	0045	rer	current	inm		
+veraa	pala	0046	dudu	one of the panundas leaves	inm	< 0043	
+veraa	pala	0047	'an̄do-gi	throat of the devil	bdp	M 0016, 0008	
+veraa	pala	0048	n̄ērsi-gi	point	loc		
+veraa	pala	0049	dudu	leaf	inm	< 0043	
+veraa	pala	0050	dudu	leaf	inm	< 0043	
+veraa	pala	0051	n̄ērsi-gi	points	loc		
+veraa	pala	0052	qēqē	last leaf	inm	< 0043	
+veraa	pala	0053	n̄ērē'iē	shore	loc		
+veraa	pala	0054	nim̄ē	house of 0001	loc		
+veraa	pala	0055	mē'ēm̄ē	door of the house	loc	< 0054	
